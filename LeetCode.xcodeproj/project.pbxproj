@@ -25,10 +25,18 @@
 /* Begin PBXFileReference section */
 		201A061927453E3900978C31 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		201A061C27453E3900978C31 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2053FCD427492B1E002F7880 /* LeetCodeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LeetCodeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		201A061627453E3900978C31 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2053FCD127492B1E002F7880 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,6 +50,7 @@
 			isa = PBXGroup;
 			children = (
 				201A061B27453E3900978C31 /* LeetCode */,
+				2053FCD527492B1E002F7880 /* LeetCodeTests */,
 				201A061A27453E3900978C31 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				201A061927453E3900978C31 /* LeetCode */,
+				2053FCD427492B1E002F7880 /* LeetCodeTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,6 +70,13 @@
 				201A061C27453E3900978C31 /* main.swift */,
 			);
 			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		2053FCD527492B1E002F7880 /* LeetCodeTests */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = LeetCodeTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -82,6 +99,23 @@
 			productReference = 201A061927453E3900978C31 /* LeetCode */;
 			productType = "com.apple.product-type.tool";
 		};
+		2053FCD327492B1E002F7880 /* LeetCodeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2053FCD827492B1E002F7880 /* Build configuration list for PBXNativeTarget "LeetCodeTests" */;
+			buildPhases = (
+				2053FCD027492B1E002F7880 /* Sources */,
+				2053FCD127492B1E002F7880 /* Frameworks */,
+				2053FCD227492B1E002F7880 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LeetCodeTests;
+			productName = LeetCodeTests;
+			productReference = 2053FCD427492B1E002F7880 /* LeetCodeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -93,6 +127,9 @@
 				LastUpgradeCheck = 1310;
 				TargetAttributes = {
 					201A061827453E3900978C31 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					2053FCD327492B1E002F7880 = {
 						CreatedOnToolsVersion = 13.1;
 					};
 				};
@@ -111,9 +148,20 @@
 			projectRoot = "";
 			targets = (
 				201A061827453E3900978C31 /* LeetCode */,
+				2053FCD327492B1E002F7880 /* LeetCodeTests */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2053FCD227492B1E002F7880 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		201A061527453E3900978C31 /* Sources */ = {
@@ -121,6 +169,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				201A061D27453E3900978C31 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2053FCD027492B1E002F7880 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +315,46 @@
 			};
 			name = Release;
 		};
+		2053FCD927492B1E002F7880 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.NikhadSamedov.LeetCodeTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		2053FCDA27492B1E002F7880 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.NikhadSamedov.LeetCodeTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -277,6 +372,15 @@
 			buildConfigurations = (
 				201A062127453E3900978C31 /* Debug */,
 				201A062227453E3900978C31 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2053FCD827492B1E002F7880 /* Build configuration list for PBXNativeTarget "LeetCodeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2053FCD927492B1E002F7880 /* Debug */,
+				2053FCDA27492B1E002F7880 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
