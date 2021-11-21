@@ -7,29 +7,18 @@
 
 import Foundation
 
-extension String {
-    subscript(_ index: Int) -> Self {
-        return String(self[self.index(startIndex, offsetBy: index)])
-    }
-}
-
 class Solution {
     func lengthOfLastWord(_ s: String) -> Int {
-        var R = s.count - 1
         var counter = 0
 
-        while R >= 0 {
-            if s[R] == " " {
-                R -= 1
-                continue
-            }
-
-            while R >= 0 && s[R] != " " {
+        for char in s.reversed() {
+            if char != " " {
                 counter += 1
-                R -= 1
             }
 
-            return counter
+            if char == " " && counter > 0 {
+                return counter
+            }
         }
 
         return counter
