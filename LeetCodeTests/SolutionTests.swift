@@ -22,8 +22,21 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
-        
+    func testSolution_lengthOfLastWord() {
+        // given
+        let str1 = "Hello World"
+        let str2 = "   fly me   to   the moon  "
+        let str3 = "luffy is still joyboy"
+
+        // when
+        let result1 = sut.lengthOfLastWord(str1)
+        let result2 = sut.lengthOfLastWord(str2)
+        let result3 = sut.lengthOfLastWord(str3)
+
+        // then
+        XCTAssertEqual(result1, 5)
+        XCTAssertEqual(result2, 4)
+        XCTAssertEqual(result3, 6)
     }
 
 //    func testPerformanceExample() throws {
