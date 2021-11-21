@@ -22,8 +22,21 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
-        
+    func testSolution_permutations() {
+        // given
+        let nums1 = [1, 2, 3]
+        let nums2 = [0, 1]
+        let nums3 = [1]
+
+        // when
+        let result1 = sut.permute(nums1)
+        let result2 = sut.permute(nums2)
+        let result3 = sut.permute(nums3)
+
+        // then
+        XCTAssertEqual(result1, [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]])
+        XCTAssertEqual(result2, [[0, 1], [1, 0]])
+        XCTAssertEqual(result3, [[1]])
     }
 
 //    func testPerformanceExample() throws {
