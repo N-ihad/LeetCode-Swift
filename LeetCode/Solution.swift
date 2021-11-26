@@ -21,7 +21,7 @@ class Solution {
 
         for i in 1..<grid.count {
             for j in 1..<grid[i].count {
-                    newGrid[i][j] = grid[i][j] + min(newGrid[i-1][j], newGrid[i][j-1])
+                newGrid[i][j] = grid[i][j] + min(newGrid[i-1][j], newGrid[i][j-1])
             }
         }
 
