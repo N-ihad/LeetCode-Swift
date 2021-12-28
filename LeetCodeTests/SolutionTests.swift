@@ -22,7 +22,31 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
-        
+    func testSolution_numberOfIslands() {
+        // given
+        let grid1: [[Character]] = [
+          ["1","1","1","1","0"],
+          ["1","1","0","1","0"],
+          ["1","1","0","0","0"],
+          ["0","0","0","0","0"]
+        ]
+
+        let grid2: [[Character]] = [
+          ["1","1","0","0","0"],
+          ["1","1","0","0","0"],
+          ["0","0","1","0","0"],
+          ["0","0","0","1","1"]
+        ]
+
+        // when
+        let result1 = sut.numIslands(grid1)
+        let result2 = sut.numIslands(grid2)
+
+        // then
+        let expected1 = 1
+        let expected2 = 3
+
+        XCTAssertEqual(result1, expected1)
+        XCTAssertEqual(result2, expected2)
     }
 }
