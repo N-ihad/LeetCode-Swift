@@ -54,14 +54,33 @@ class LinkedList {
     }
 }
 
+class LRUStack {
+    var keys: [Int]
+    var bottom: Int
+
+    init() {
+        keys = []
+        bottom = -2
+    }
+
+    func push(_ key: Int) {
+        keys.append(key)
+    }
+}
+
 class LRUCache {
 
     let capacity: Int
     var elements: [LinkedList]
+    private let lruStack: LRUStack
+    private var numberOfKeys: Int
 
     init(_ capacity: Int) {
         self.capacity = capacity
         elements = []
+        lruStack = LRUStack()
+        numberOfKeys = 0
+
         for _ in 0..<capacity {
             elements.append(LinkedList())
         }
@@ -71,6 +90,7 @@ class LRUCache {
         let i = index(hash(key))
 
         if let element = elements[i].findNode(withKey: key) {
+            updatePriorityList()
             return element.value
         } else {
             return -1
@@ -82,16 +102,32 @@ class LRUCache {
 
         if let element = elements[i].findNode(withKey: key) {
             element.value = value
+            updatePriorityList()
         } else {
-            elements[i].insert(Node(key: key, value: value))
+            if numberOfKeys > capacity {
+                doTheMagic()
+            } else {
+                numberOfKeys += 1
+                elements[i].insert(Node(key: key, value: value))
+            }
         }
     }
 
-    func hash(_ key: Int) -> Int {
+    // Rearrange the list so that it satisfies LRU list
+    private func updatePriorityList() {
+
+    }
+
+    // If number of keys exceeds the capacity replace LRU element by a new one
+    private func doTheMagic() {
+        updatePriorityList()
+    }
+
+    private func hash(_ key: Int) -> Int {
         return key
     }
 
-    func index(_ hash: Int) -> Int {
+    private func index(_ hash: Int) -> Int {
         return hash % capacity
     }
 }
