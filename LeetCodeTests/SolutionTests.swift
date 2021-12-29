@@ -22,7 +22,20 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
-        
+    func testSolution_maxDepth() {
+        // given
+        let root1 = TreeNode(3, TreeNode(9), TreeNode(20, TreeNode(15), TreeNode(7)))
+        let root2 = TreeNode(1, nil, TreeNode(2))
+
+        // when
+        let result1 = sut.maxDepth(root1)
+        let result2 = sut.maxDepth(root2)
+
+        // then
+        let expected1 = 3
+        let expected2 = 2
+
+        XCTAssertEqual(result1, expected1)
+        XCTAssertEqual(result2, expected2)
     }
 }
