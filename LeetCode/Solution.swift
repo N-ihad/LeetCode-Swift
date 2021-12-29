@@ -9,16 +9,23 @@ import Foundation
 
 class Node {
     var next: Node?
-    var value: Triplet
+    var value: Int
+    var key: Int
 
-    init(value: Triplet) {
+    init(key: Int, value: Int) {
         self.value = value
+        self.key = key
     }
 }
 
 class LinkedList {
-    var head: Node
-    var tail: Node
+    var head: Node?
+    var tail: Node?
+
+    init() {
+        head = nil
+        tail = nil
+    }
 
     init(head: Node) {
         self.head = head
@@ -26,49 +33,44 @@ class LinkedList {
     }
 
     func insert(_ node: Node) {
-        tail.next = node
-        tail = node
-    }
-}
-
-class Triplet {
-    let key: Int
-    var value: Int
-    var usedCount: Int
-
-    init() {
-        key = -2
-        value = -2
-        usedCount = 0
+        if head == nil {
+            head = node
+            tail = head
+        } else {
+            tail?.next = node
+            tail = node
+        }
     }
 
-    init(key: Int, value: Int) {
-        self.key = key
-        self.value = value
-        usedCount = 0
+    func findNode(withKey key: Int) -> Node? {
+        var head = head
+        while head != nil {
+            if head!.key == key {
+                return head
+            }
+            head = head?.next
+        }
+        return nil
     }
 }
 
 class LRUCache {
 
     let capacity: Int
-    var elements: [Triplet?]
-    var minUsedKey: Int
-    var minUsedTimes: Int
+    var elements: [LinkedList]
 
     init(_ capacity: Int) {
         self.capacity = capacity
-        elements = Array<Triplet?>(repeating: nil, count: capacity)
-        minUsedKey = -2
-        minUsedTimes = -2
+        elements = []
+        for _ in 0..<capacity {
+            elements.append(LinkedList())
+        }
     }
 
     func get(_ key: Int) -> Int {
         let i = index(hash(key))
 
-        if let element = elements[i] {
-            element.usedCount += 1
-            
+        if let element = elements[i].findNode(withKey: key) {
             return element.value
         } else {
             return -1
@@ -78,10 +80,10 @@ class LRUCache {
     func put(_ key: Int, _ value: Int) {
         let i = index(hash(key))
 
-        if let element = elements[i] {
+        if let element = elements[i].findNode(withKey: key) {
             element.value = value
         } else {
-            elements[i] = Triplet(key: key, value: value)
+            elements[i].insert(Node(key: key, value: value))
         }
     }
 
