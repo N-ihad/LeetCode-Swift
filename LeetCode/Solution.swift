@@ -22,7 +22,7 @@ class Solution {
         var slow: ListNode? = head
         var fast: ListNode? = head?.next
 
-        while slow != nil {
+        while slow != nil || fast != nil {
             if slow === fast {
                 return true
             }
