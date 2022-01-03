@@ -22,7 +22,20 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
-        
+    func testSolution_majorityElement() {
+        // given
+        let nums1 = [3, 2, 3]
+        let nums2 = [2, 2, 1, 1, 1, 2, 2]
+
+        // when
+        let result1 = sut.majorityElement(nums1)
+        let result2 = sut.majorityElement(nums2)
+
+        // then
+        let expected1 = 3
+        let expected2 = 2
+
+        XCTAssertEqual(result1, expected1)
+        XCTAssertEqual(result2, expected2)
     }
 }
