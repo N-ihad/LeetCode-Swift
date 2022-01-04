@@ -57,7 +57,7 @@ class Solution {
     }
 
     func removeNthFromEnd2(_ head: ListNode?, _ n: Int) -> ListNode? {
-        var dummy: ListNode? = ListNode(0)
+        let dummy: ListNode? = ListNode(0)
         dummy?.next = head
         var L = dummy
 
