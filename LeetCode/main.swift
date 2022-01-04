@@ -17,6 +17,6 @@ let head3: ListNode? = ListNode(1, ListNode(2))
 let n3 = 1
 
 let s = Solution()
-printList(s.removeNthFromEnd(head1, n1))
-printList(s.removeNthFromEnd(head2, n2))
-printList(s.removeNthFromEnd(head3, n3))
+printList(s.removeNthFromEnd2(head1, n1))
+printList(s.removeNthFromEnd2(head2, n2))
+printList(s.removeNthFromEnd2(head3, n3))

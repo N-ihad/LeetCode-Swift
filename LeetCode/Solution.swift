@@ -55,4 +55,25 @@ class Solution {
 
         return originalHead
     }
+
+    func removeNthFromEnd2(_ head: ListNode?, _ n: Int) -> ListNode? {
+        var dummy: ListNode? = ListNode(0)
+        dummy?.next = head
+        var L = dummy
+
+        var R: ListNode? = head
+        var n = n
+        while n > 0 && R != nil {
+            R = R?.next
+            n -= 1
+        }
+
+        while R != nil {
+            L = L?.next
+            R = R?.next
+        }
+
+        L?.next = L?.next?.next
+        return dummy?.next
+    }
 }
