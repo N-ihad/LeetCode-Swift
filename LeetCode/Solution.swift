@@ -28,6 +28,7 @@ class ListNode {
 }
 
 class Solution {
+    // MARK: - Iterative
     func reverseList(_ head: ListNode?) -> ListNode? {
         var prevHead: ListNode? = nil
         var currentHead = head
@@ -40,4 +41,20 @@ class Solution {
         currentHead?.next = prevHead
         return currentHead
     }
+
+    // MARK: - Recursive
+//    func reverseList(_ head: ListNode?) -> ListNode? {
+//        var head: ListNode? = head
+//        func reverseRecursively(_ prev: ListNode?, _ curr: ListNode?) {
+//            if curr?.next == nil {
+//                curr?.next = prev
+//                head = curr
+//                return
+//            }
+//            reverseRecursively(curr, curr?.next)
+//            curr?.next = prev
+//        }
+//        reverseRecursively(nil, head)
+//        return head
+//    }
 }
