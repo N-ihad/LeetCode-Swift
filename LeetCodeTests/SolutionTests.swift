@@ -50,6 +50,7 @@ class SolutionTests: XCTestCase {
             print(head!.val, terminator: " ")
             head = head!.next
         }
-        print("***** \(label) *****")
+        print("\n***** \(label) *****")
+        print()
     }
 }
