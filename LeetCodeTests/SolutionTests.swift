@@ -22,7 +22,24 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
-        
+    func testSolution_groupAnagrams() {
+        // given
+        let strs1 = ["eat","tea","tan","ate","nat","bat"]
+        let strs2 = [""]
+        let strs3 = ["a"]
+
+        // when
+        let result1 = sut.groupAnagrams(strs1)
+        let result2 = sut.groupAnagrams(strs2)
+        let result3 = sut.groupAnagrams(strs3)
+
+        // then
+        let expected1 = [["eat","tea","ate"],["tan","nat"],["bat"]]
+        let expected2 = [[""]]
+        let expected3 = [["a"]]
+
+        XCTAssertEqual(result1, expected1)
+        XCTAssertEqual(result2, expected2)
+        XCTAssertEqual(result3, expected3)
     }
 }
