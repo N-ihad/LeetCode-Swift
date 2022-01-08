@@ -22,7 +22,20 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
-        
+    func testSolution_generateParentheses() {
+        // given
+        let n1 = 3
+        let n2 = 1
+
+        // when
+        let result1 = sut.generateParenthesis(n1)
+        let result2 = sut.generateParenthesis(n2)
+
+        // then
+        let expected1 = ["((()))","(()())","(())()","()(())","()()()"]
+        let expected2 = ["()"]
+
+        XCTAssertEqual(result1, expected1)
+        XCTAssertEqual(result2, expected2)
     }
 }
