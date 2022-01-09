@@ -22,7 +22,20 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
-        
+    func testSolution_binaryTreePaths() {
+        // given
+        let root1 = TreeNode(1, TreeNode(2, nil, TreeNode(5)), TreeNode(3))
+        let root2 = TreeNode(1)
+
+        // when
+        let result1 = sut.binaryTreePaths(root1)
+        let result2 = sut.binaryTreePaths(root2)
+
+        // then
+        let expected1 = ["1->2->5", "1->3"]
+        let expected2 = ["1"]
+
+        XCTAssertEqual(result1, expected1)
+        XCTAssertEqual(result2, expected2)
     }
 }
