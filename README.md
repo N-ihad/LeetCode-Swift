@@ -4,5 +4,5 @@ Some solved problems I thought I'd share if someone needs (among like 101023423 
 ## Branches
 Problems are categorized into: easy, medium, hard within branches
 
-### Contacts
+## Contacts
 https://www.linkedin.com/in/nihad-samedov/
