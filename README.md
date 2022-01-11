@@ -1,8 +1,8 @@
 # LeetCode Swift
-Some solved problems which I thought I'd share if someone would need it (among like 10 other resources out there lol), but anyway
+Some solved problems I thought I'd share if someone needs (among like 101023423 other resources out there lol), but anyway
 
 ## Branches
-Problems are categorized into folders easy, medium, hard in branches
+Problems are categorized into: easy, medium, hard within branches
 
 ### Contacts
 https://www.linkedin.com/in/nihad-samedov/
