@@ -23,6 +23,22 @@ class SolutionTests: XCTestCase {
     }
 
     func testSolution_() {
-        
+        // given
+        let m1 = 3
+        let n1 = 7
+
+        let m2 = 3
+        let n2 = 2
+
+        // when
+        let result1 = sut.uniquePaths(m1, n1)
+        let result2 = sut.uniquePaths(m2, n2)
+
+        // then
+        let expected1 = 28
+        let expected2 = 3
+
+        XCTAssertEqual(result1, expected1)
+        XCTAssertEqual(result2, expected2)
     }
 }
