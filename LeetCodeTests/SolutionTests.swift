@@ -34,8 +34,8 @@ class SolutionTests: XCTestCase {
         let result3 = sut.permute(nums3)
 
         // then
-        XCTAssertEqual(result1, [[1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]])
-        XCTAssertEqual(result2, [[0, 1], [1, 0]])
+        XCTAssertEqual(result1, [[3, 2, 1], [2, 3, 1], [1, 3, 2], [3, 1, 2], [2, 1, 3], [1, 2, 3]])
+        XCTAssertEqual(result2, [[1, 0], [0, 1]])
         XCTAssertEqual(result3, [[1]])
     }
 
