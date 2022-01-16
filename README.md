@@ -28,6 +28,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Symmetric Tree](https://github.com/N-ihad/LeetCode-Swift/tree/easy/SymmetricTree)
 * [Two Sum](https://github.com/N-ihad/LeetCode-Swift/tree/easy/TwoSum)
 * [Valid Parentheses](https://github.com/N-ihad/LeetCode-Swift/tree/easy/ValidParentheses)
+* [Missing Number](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MissingNumber)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
