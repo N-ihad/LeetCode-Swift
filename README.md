@@ -63,4 +63,5 @@ Problems are categorized into: easy, medium, hard within branches
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
 
 ## Contacts
-https://www.linkedin.com/in/nihad-samedov/
+* LinkedIn: https://www.linkedin.com/in/nihad-samedov/
+* Telegram: @Nihad_s
