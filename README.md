@@ -4,5 +4,9 @@ Some solved problems in Swift I thought I'd share if someone needs (among like 1
 ## Branches
 Problems are categorized into: easy, medium, hard within branches
 
+## Problems
+### Easy
+[*] [something][https://google.com]
+
 ## Contacts
 https://www.linkedin.com/in/nihad-samedov/
