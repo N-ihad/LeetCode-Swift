@@ -6,7 +6,7 @@ Problems are categorized into: easy, medium, hard within branches
 
 ## Problems
 ### Easy
-[*] [something][https://google.com]
+* [something] (https://google.com)
 
 ## Contacts
 https://www.linkedin.com/in/nihad-samedov/
