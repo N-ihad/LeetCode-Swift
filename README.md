@@ -55,7 +55,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Sort Colors](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SortColors)
 * [Subsets](https://github.com/N-ihad/LeetCode-Swift/tree/medium/Subsets)
 * [Top K Frequent Elements](https://github.com/N-ihad/LeetCode-Swift/tree/medium/TopKFrequentElements)
-* [Unique Paths](https://github.com/N-ihad/LeetCode-Swift/tree/medium/UniquePaths)
+* [Unique Paths](https://github.com/N-ihad/LeetCode-Swift/tree/medium/UniquePaths) need to add memoization
 * [Valid Sudoku](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ValidSudoku) yet to be solved
 * [Validate Binary Search Tree](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ValidateBinarySearchTree) yet to be solved
 * [Word Search](https://github.com/N-ihad/LeetCode-Swift/tree/medium/WordSearch)
