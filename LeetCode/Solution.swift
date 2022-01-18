@@ -8,5 +8,7 @@
 import Foundation
 
 class Solution {
-    
+    func productExceptSelf(_ nums: [Int]) -> [Int] {
+        return []
+    }
 }
