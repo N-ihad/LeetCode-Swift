@@ -21,6 +21,20 @@ class TreeNode {
 
 class Solution {
     func kthSmallest(_ root: TreeNode?, _ k: Int) -> Int {
-        return 0
+        var counter = 0
+        var val = 0
+
+        func inorderTraversal(_ node: TreeNode?) {
+            if node == nil || counter == k {
+                return
+            }
+            inorderTraversal(node?.left)
+            counter += 1
+            if counter == k { val = node!.val; return }
+            inorderTraversal(node?.right)
+        }
+
+        inorderTraversal(root)
+        return val
     }
 }
