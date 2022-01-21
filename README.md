@@ -63,6 +63,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Search a 2D Matrix II](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SearchA2DMatrixII)
 * [Kth Smallest Element in a BST](https://github.com/N-ihad/LeetCode-Swift/tree/medium/KthSmallestElementInABST)
 * [Product of Array Except Self](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ProductOfArrayExceptSelf)
+* [Binary Tree Level Order Traversal](https://github.com/N-ihad/LeetCode-Swift/tree/medium/BinaryTreeLevelOrderTraversal)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
