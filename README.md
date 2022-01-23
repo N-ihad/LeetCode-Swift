@@ -68,6 +68,7 @@ Problems are categorized into: easy, medium, hard within branches
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
 * [Trapping Rain Water](https://github.com/N-ihad/LeetCode-Swift/tree/hard/TrappingRainWater)
+* [Serialize and Deserialize Binary Tree](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SerializeAndDeserializeBinaryTree)
 
 ## Contacts
 * LinkedIn: https://www.linkedin.com/in/nihad-samedov/
