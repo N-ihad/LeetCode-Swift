@@ -7,6 +7,26 @@
 
 import Foundation
 
+class Queue {
+    private var val: [TreeNode?] = []
+    var isEmpty: Bool {
+        val.isEmpty
+    }
+
+    func enqueue(_ element: TreeNode?) {
+        val.append(element)
+    }
+
+    @discardableResult
+    func dequeue() -> TreeNode? {
+        if !val.isEmpty {
+            return val.removeFirst()
+        } else {
+            return nil
+        }
+    }
+}
+
 struct Helper {
     static func printMatrix(_ matrix: inout [[Int]]) {
         guard !matrix.isEmpty else {
@@ -32,5 +52,20 @@ struct Helper {
             }
             print()
         }
+    }
+
+    static func printTree(_ root: TreeNode?) {
+        let queue = Queue()
+        queue.enqueue(root)
+        while !queue.isEmpty {
+            let currentNode = queue.dequeue()
+            print(currentNode?.val ?? "nil", terminator: " ")
+
+            if let currentNode = currentNode {
+                queue.enqueue(currentNode.left)
+                queue.enqueue(currentNode.right)
+            }
+        }
+        print()
     }
 }
