@@ -64,6 +64,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Kth Smallest Element in a BST](https://github.com/N-ihad/LeetCode-Swift/tree/medium/KthSmallestElementInABST)
 * [Product of Array Except Self](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ProductOfArrayExceptSelf)
 * [Binary Tree Level Order Traversal](https://github.com/N-ihad/LeetCode-Swift/tree/medium/BinaryTreeLevelOrderTraversal)
+* [Longest Consecutive Sequence](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestConsecutiveSequence)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
