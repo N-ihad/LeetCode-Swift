@@ -67,6 +67,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Longest Consecutive Sequence](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestConsecutiveSequence)
 * [House Robber](https://github.com/N-ihad/LeetCode-Swift/tree/medium/HouseRobber)
 * [Kth Largest Element in an Array](https://github.com/N-ihad/LeetCode-Swift/tree/medium/KthLargestElementInAnArray)
+* [Find the Duplicate Number](https://github.com/N-ihad/LeetCode-Swift/tree/medium/FindTheDuplicateNumber)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
