@@ -68,6 +68,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [House Robber](https://github.com/N-ihad/LeetCode-Swift/tree/medium/HouseRobber)
 * [Kth Largest Element in an Array](https://github.com/N-ihad/LeetCode-Swift/tree/medium/KthLargestElementInAnArray)
 * [Find the Duplicate Number](https://github.com/N-ihad/LeetCode-Swift/tree/medium/FindTheDuplicateNumber)
+* [Odd Even Linked List](https://github.com/N-ihad/LeetCode-Swift/tree/medium/OddEvenLinkedList) yet to be solved: dk what to do with the last node (there's cycle)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
