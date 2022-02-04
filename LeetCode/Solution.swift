@@ -17,18 +17,16 @@ class Solution {
         var buff = head
         var head = head
         let evenListHeadOrigin = head!.next
-        var flag = false
-        while head?.next != nil && !flag {
-            print(head!.val)
-            Helper.printList(origin)
+
+        while head?.next != nil {
             let temp = head?.next
             buff?.next = head?.next?.next
             temp?.next = head?.next?.next
             buff = buff?.next
             buff?.next = evenListHeadOrigin
             head = temp
-            Helper.printList(origin)
         }
+
         return origin
     }
 }
