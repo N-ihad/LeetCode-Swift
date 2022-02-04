@@ -7,6 +7,16 @@
 
 import Foundation
 
+class ListNode {
+    var val: Int
+    var next: ListNode?
+
+    init(_ val: Int, _ next: ListNode? = nil) {
+        self.val = val
+        self.next = next
+    }
+}
+
 class TreeNode {
     var val: Int
     var left: TreeNode?
@@ -44,5 +54,29 @@ struct Helper {
             }
             print()
         }
+    }
+
+    static func makeList(fromArray array: [Int]) -> ListNode? {
+        if array.isEmpty { return nil }
+
+        var head = ListNode(array[0])
+        let origin = head
+        for i in 1..<array.count {
+            let newNode = ListNode(array[i])
+            head.next = newNode
+            head = newNode
+        }
+
+        return origin
+    }
+
+    static func printList(_ root: ListNode?) {
+        if root == nil { print("Empty list"); return }
+        var head = root
+        while head != nil {
+            print("\(head!.val)", terminator: " ")
+            head = head?.next
+        }
+        print()
     }
 }
