@@ -70,6 +70,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Find the Duplicate Number](https://github.com/N-ihad/LeetCode-Swift/tree/medium/FindTheDuplicateNumber)
 * [Odd Even Linked List](https://github.com/N-ihad/LeetCode-Swift/tree/medium/OddEvenLinkedList) yet to be solved: dk what to do with the last node (there's cycle)
 * [Binary Tree Zigzag Level Order Traversal](https://github.com/N-ihad/LeetCode-Swift/tree/medium/BinaryTreeZigzagLevelOrderTraversal)
+* [Insert Delete Get Random O(1)](https://github.com/N-ihad/LeetCode-Swift/tree/medium/InsertDeleteGetRandomO(1))
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
