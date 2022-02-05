@@ -22,7 +22,20 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
-        
+    func testSolution_isHappyNumber() {
+        // given
+        let n1 = 19
+        let n2 = 2
+
+        // when
+        let result1 = sut.isHappy(n1)
+        let result2 = sut.isHappy(n2)
+
+        // then
+        let expected1 = true
+        let expected2 = false
+
+        XCTAssertEqual(result1, expected1)
+        XCTAssertEqual(result2, expected2)
     }
 }
