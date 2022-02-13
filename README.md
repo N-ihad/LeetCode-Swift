@@ -32,6 +32,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Maximum Subarray](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MaximumSubarray)
 * [Plus One](https://github.com/N-ihad/LeetCode-Swift/tree/easy/PlusOne)
 * [Happy Number](https://github.com/N-ihad/LeetCode-Swift/tree/easy/HappyNumber)
+* [Intersection of Two Linked Lists](https://github.com/N-ihad/LeetCode-Swift/tree/easy/IntersectionOfTwoLinkedLists)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
