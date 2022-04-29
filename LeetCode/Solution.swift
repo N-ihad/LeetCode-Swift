@@ -59,7 +59,7 @@ class Solution {
     }
 }
 
-// MARK: - Solution C++ (since Swift sucks ass: retrieving character from a string by index takes fucking O(n))
+// MARK: - Solution C++ (since Swift sucks ass: retrieving character from a string by index takes O(n))
 /*
 bool isValid(string s) {
     stack<char> stack;
