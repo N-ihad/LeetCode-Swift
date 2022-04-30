@@ -34,6 +34,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Happy Number](https://github.com/N-ihad/LeetCode-Swift/tree/easy/HappyNumber)
 * [Intersection of Two Linked Lists](https://github.com/N-ihad/LeetCode-Swift/tree/easy/IntersectionOfTwoLinkedLists)
 * [Delete Node in a Linked List](https://github.com/N-ihad/LeetCode-Swift/tree/easy/DeleteNodeInALinkedList)
+* [Fizz Buzz](https://github.com/N-ihad/LeetCode-Swift/tree/easy/FizzBuzz)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
