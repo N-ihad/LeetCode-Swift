@@ -35,7 +35,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Intersection of Two Linked Lists](https://github.com/N-ihad/LeetCode-Swift/tree/easy/IntersectionOfTwoLinkedLists)
 * [Delete Node in a Linked List](https://github.com/N-ihad/LeetCode-Swift/tree/easy/DeleteNodeInALinkedList)
 * [Fizz Buzz](https://github.com/N-ihad/LeetCode-Swift/tree/easy/FizzBuzz)
-* [BackspaceStringCompare](https://github.com/N-ihad/LeetCode-Swift/tree/easy/BackspaceStringCompare)
+* [Backspace String Compare](https://github.com/N-ihad/LeetCode-Swift/tree/easy/BackspaceStringCompare)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
