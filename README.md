@@ -33,6 +33,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Plus One](https://github.com/N-ihad/LeetCode-Swift/tree/easy/PlusOne)
 * [Happy Number](https://github.com/N-ihad/LeetCode-Swift/tree/easy/HappyNumber)
 * [Intersection of Two Linked Lists](https://github.com/N-ihad/LeetCode-Swift/tree/easy/IntersectionOfTwoLinkedLists)
+* [Backspace String Compare](https://github.com/N-ihad/LeetCode-Swift/tree/easy/BackspaceStringCompare)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
