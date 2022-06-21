@@ -22,7 +22,17 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
-        
+    func testSolution_partition() {
+        let s1 = "aab"
+        let s2 = "a"
+
+        let result1 = sut.partition(s1)
+        let result2 = sut.partition(s2)
+
+        let expected1 = [["a","a","b"],["aa","b"]]
+        let expected2 = [["a"]]
+
+        XCTAssertEqual(result1, expected1)
+        XCTAssertEqual(result2, expected2)
     }
 }
