@@ -43,11 +43,17 @@ class SolutionTests: XCTestCase {
         let result5 = sut.combinationSum(candidates5, target5)
 
         // then
-        XCTAssertEqual(result1, [[2, 2, 3], [7]])
-        XCTAssertEqual(result2, [[2, 2, 2, 2], [2, 3, 3], [3, 5]])
-        XCTAssertEqual(result3, [])
-        XCTAssertEqual(result4, [[1]])
-        XCTAssertEqual(result5, [[1, 1]])
+        let expected1 = [[2, 2, 3], [7]]
+        let expected2 = [[2, 2, 2, 2], [2, 3, 3], [3, 5]]
+        let expected3: [[Int]] = []
+        let expected4 = [[1]]
+        let expected5 = [[1, 1]]
+
+        XCTAssertEqual(Set<Array<Int>>(result1), Set<Array<Int>>(expected1))
+        XCTAssertEqual(Set<Array<Int>>(result2), Set<Array<Int>>(expected2))
+        XCTAssertEqual(Set<Array<Int>>(result3), Set<Array<Int>>(expected3))
+        XCTAssertEqual(Set<Array<Int>>(result4), Set<Array<Int>>(expected4))
+        XCTAssertEqual(Set<Array<Int>>(result5), Set<Array<Int>>(expected5))
     }
 
 //    func testPerformanceExample() throws {
