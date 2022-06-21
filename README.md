@@ -41,7 +41,7 @@ Problems are categorized into: easy, medium, hard within branches
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
-* [Combination Sum](https://github.com/N-ihad/LeetCode-Swift/tree/medium/CombinationSum) yet to solved
+* [Combination Sum](https://github.com/N-ihad/LeetCode-Swift/tree/medium/CombinationSum)
 * [Copy List With Random Pointer](https://github.com/N-ihad/LeetCode-Swift/tree/medium/CopyListWithRandomPointer)
 * [Course Schedule](https://github.com/N-ihad/LeetCode-Swift/tree/medium/CourseSchedule)
 * [Generate Parentheses](https://github.com/N-ihad/LeetCode-Swift/tree/medium/GenerateParentheses)
