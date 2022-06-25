@@ -88,6 +88,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Trapping Rain Water](https://github.com/N-ihad/LeetCode-Swift/tree/hard/TrappingRainWater)
 * [Serialize and Deserialize Binary Tree](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SerializeAndDeserializeBinaryTree)
 * [Sudoku Solver](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SudokuSolver)
+* [N-Queens](https://github.com/N-ihad/LeetCode-Swift/tree/hard/N-Queens)
 
 ## Contacts
 * LinkedIn: https://www.linkedin.com/in/nihad-samedov/
