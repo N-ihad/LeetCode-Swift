@@ -90,6 +90,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Serialize and Deserialize Binary Tree](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SerializeAndDeserializeBinaryTree)
 * [Sudoku Solver](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SudokuSolver)
 * [N-Queens](https://github.com/N-ihad/LeetCode-Swift/tree/hard/N-Queens)
+* [N-Queens2](https://github.com/N-ihad/LeetCode-Swift/tree/hard/N-Queens2)
 
 ## Contacts
 * LinkedIn: https://www.linkedin.com/in/nihad-samedov/
