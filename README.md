@@ -82,6 +82,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Letter Combinations of a Phone Number](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LetterCombinationsOfAPhoneNumber)
 * [Game of Life](https://github.com/N-ihad/LeetCode-Swift/tree/medium/GameOfLife)
 * [Palindrome Partitioning](https://github.com/N-ihad/LeetCode-Swift/tree/medium/PalindromePartitioning)
+* [Combinations](https://github.com/N-ihad/LeetCode-Swift/tree/medium/Combinations)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
