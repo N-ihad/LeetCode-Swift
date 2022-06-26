@@ -9,12 +9,12 @@ import Foundation
 
 class Solution {
     func solveNQueens(_ n: Int) -> [[String]] {
-        var boards = Set<[[Int]]>()
+        var boards = [[[Int]]]()
         var result: [[String]] = []
 
         var board = Array(repeating: Array(repeating: 0, count: n), count: n)
         var queensPlaced = 0
-        solve(&board, n, &queensPlaced, &boards)
+        solve(&board, n, &queensPlaced, &boards, 0)
 
         let _boards = Array(boards)
         for k in 0..<_boards.count {
@@ -36,15 +36,14 @@ class Solution {
         return result
     }
 
-    @discardableResult
-    private func solve(_ board: inout [[Int]], _ n: Int, _ queensPlaced: inout Int, _ boards: inout Set<[[Int]]>) {
+    private func solve(_ board: inout [[Int]], _ n: Int, _ queensPlaced: inout Int, _ boards: inout [[[Int]]], _ jj: Int) {
         for i in 0..<n {
-            for j in 0..<n {
+            for j in jj..<n {
                 if board[i][j] == 0 {
                     board[i][j] = 1
                     updateHitCells(&board, n, i, j, true)
                     queensPlaced += 1
-                    solve(&board, n, &queensPlaced, &boards)
+                    solve(&board, n, &queensPlaced, &boards, j + 1)
                     board[i][j] = 0
                     queensPlaced -= 1
                     updateHitCells(&board, n, i, j, false)
@@ -53,7 +52,7 @@ class Solution {
         }
 
         if queensPlaced == n {
-            boards.insert(board)
+            boards.append(board)
         }
 
         return
