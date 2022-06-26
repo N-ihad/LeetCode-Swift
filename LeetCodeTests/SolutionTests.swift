@@ -38,9 +38,9 @@ class SolutionTests: XCTestCase {
         let expected2 = [["Q"]]
         let expected3: [[String]] = []
 
-        XCTAssertEqual(result1, expected1)
-        XCTAssertEqual(result2, expected2)
-        XCTAssertEqual(result3, expected3)
+        XCTAssertEqual(Set<[String]>(result1), Set<[String]>(expected1))
+        XCTAssertEqual(Set<[String]>(result2), Set<[String]>(expected2))
+        XCTAssertEqual(Set<[String]>(result3), Set<[String]>(expected3))
     }
 
     func test_updateHitCells() {
