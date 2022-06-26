@@ -76,7 +76,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [House Robber](https://github.com/N-ihad/LeetCode-Swift/tree/medium/HouseRobber)
 * [Kth Largest Element in an Array](https://github.com/N-ihad/LeetCode-Swift/tree/medium/KthLargestElementInAnArray)
 * [Find the Duplicate Number](https://github.com/N-ihad/LeetCode-Swift/tree/medium/FindTheDuplicateNumber)
-* [Odd Even Linked List](https://github.com/N-ihad/LeetCode-Swift/tree/medium/OddEvenLinkedList) yet to be solved: dk what to do with the last node (there's cycle)
+* [Odd Even Linked List](https://github.com/N-ihad/LeetCode-Swift/tree/medium/OddEvenLinkedList) almost solved: problem with the last node, there's a cycle
 * [Binary Tree Zigzag Level Order Traversal](https://github.com/N-ihad/LeetCode-Swift/tree/medium/BinaryTreeZigzagLevelOrderTraversal)
 * [Insert Delete Get Random O(1)](https://github.com/N-ihad/LeetCode-Swift/tree/medium/InsertDeleteGetRandomO(1))
 * [Letter Combinations of a Phone Number](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LetterCombinationsOfAPhoneNumber)
