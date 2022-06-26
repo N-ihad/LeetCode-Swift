@@ -7,48 +7,16 @@
 
 import Foundation
 
-extension String {
-    subscript(_ n: Int) -> Character {
-        get {
-            let idx = index(startIndex, offsetBy: n)
-            return self[idx]
-        }
-        set {
-            let idx = index(startIndex, offsetBy: n)
-            replaceSubrange(idx...idx, with: [newValue])
-        }
-    }
-}
-
 class Solution {
     func solveNQueens(_ n: Int) -> [[String]] {
-        var solutions = [[[Int]]]()
-        var result: [[String]] = []
+        var solutions: [[String]] = []
         var board = Array(repeating: Array(repeating: 0, count: n), count: n)
         var queensPlaced = 0
-
         solve(&board, &queensPlaced, &solutions, 0)
-
-        for k in 0..<solutions.count {
-            var strs: [String] = []
-            for i in 0..<solutions[0].count {
-                var str = ""
-                for j in 0..<solutions[0][0].count {
-                    if solutions[k][i][j] != 1 {
-                        str.append(".")
-                    } else {
-                        str.append("Q")
-                    }
-                }
-                strs.append(str)
-            }
-            result.append(strs)
-        }
-
-        return result
+        return solutions
     }
 
-    private func solve(_ board: inout [[Int]], _ queensPlaced: inout Int, _ solutions: inout [[[Int]]], _ jj: Int) {
+    private func solve(_ board: inout [[Int]], _ queensPlaced: inout Int, _ solutions: inout [[String]], _ jj: Int) {
         for i in 0..<board.count {
             for j in jj..<board.count {
                 if board[i][j] == 0 {
@@ -66,10 +34,16 @@ class Solution {
         }
 
         if queensPlaced == board.count {
-            solutions.append(board)
+            var result: [String] = []
+            for i in 0..<board.count {
+                var str = ""
+                for j in 0..<board.count {
+                    str.append(board[i][j] != 1 ? "." : "Q")
+                }
+                result.append(str)
+            }
+            solutions.append(result)
         }
-
-        return
     }
 
     func updateHitCells(_ board: inout [[Int]], _ y: Int, _ x: Int, _ shouldHit: Bool) {
