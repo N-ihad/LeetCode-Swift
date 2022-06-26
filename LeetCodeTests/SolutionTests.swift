@@ -52,12 +52,12 @@ class SolutionTests: XCTestCase {
         var board5 = Array(repeating: Array(repeating: 0, count: 4), count: 4)
 
         // when
-        sut.updateHitCells(&board1, 1, 0, 0, true)
-        sut.updateHitCells(&board2, 2, 1, 1, true)
-        sut.updateHitCells(&board3, 3, 0, 1, true)
-        sut.updateHitCells(&board4, 4, 3, 2, true)
-        sut.updateHitCells(&board5, 4, 3, 2, true)
-        sut.updateHitCells(&board5, 4, 3, 2, false)
+        sut.updateHitCells(&board1, 0, 0, true)
+        sut.updateHitCells(&board2, 1, 1, true)
+        sut.updateHitCells(&board3, 0, 1, true)
+        sut.updateHitCells(&board4, 3, 2, true)
+        sut.updateHitCells(&board5, 3, 2, true)
+        sut.updateHitCells(&board5, 3, 2, false)
 
         // then
         let expected1 = [
@@ -85,5 +85,11 @@ class SolutionTests: XCTestCase {
         XCTAssertEqual(board3, expected3)
         XCTAssertEqual(board4, expected4)
         XCTAssertEqual(board5, expected5)
+    }
+
+    func testPerformanceExample() throws {
+        measure {
+            _ = sut.solveNQueens(5)
+        }
     }
 }

@@ -7,22 +7,34 @@
 
 import Foundation
 
+extension String {
+    subscript(_ n: Int) -> Character {
+        get {
+            let idx = index(startIndex, offsetBy: n)
+            return self[idx]
+        }
+        set {
+            let idx = index(startIndex, offsetBy: n)
+            replaceSubrange(idx...idx, with: [newValue])
+        }
+    }
+}
+
 class Solution {
     func solveNQueens(_ n: Int) -> [[String]] {
-        var boards = [[[Int]]]()
+        var solutions = [[[Int]]]()
         var result: [[String]] = []
-
         var board = Array(repeating: Array(repeating: 0, count: n), count: n)
         var queensPlaced = 0
-        solve(&board, n, &queensPlaced, &boards, 0)
 
-        let _boards = Array(boards)
-        for k in 0..<_boards.count {
+        solve(&board, &queensPlaced, &solutions, 0)
+
+        for k in 0..<solutions.count {
             var strs: [String] = []
-            for i in 0..<_boards[0].count {
+            for i in 0..<solutions[0].count {
                 var str = ""
-                for j in 0..<_boards[0][0].count {
-                    if _boards[k][i][j] != 1 {
+                for j in 0..<solutions[0][0].count {
+                    if solutions[k][i][j] != 1 {
                         str.append(".")
                     } else {
                         str.append("Q")
@@ -36,68 +48,70 @@ class Solution {
         return result
     }
 
-    private func solve(_ board: inout [[Int]], _ n: Int, _ queensPlaced: inout Int, _ boards: inout [[[Int]]], _ jj: Int) {
-        for i in 0..<n {
-            for j in jj..<n {
+    private func solve(_ board: inout [[Int]], _ queensPlaced: inout Int, _ solutions: inout [[[Int]]], _ jj: Int) {
+        for i in 0..<board.count {
+            for j in jj..<board.count {
                 if board[i][j] == 0 {
                     board[i][j] = 1
-                    updateHitCells(&board, n, i, j, true)
+                    updateHitCells(&board, i, j, true)
                     queensPlaced += 1
-                    solve(&board, n, &queensPlaced, &boards, j + 1)
+
+                    solve(&board, &queensPlaced, &solutions, j + 1)
+
                     board[i][j] = 0
                     queensPlaced -= 1
-                    updateHitCells(&board, n, i, j, false)
+                    updateHitCells(&board, i, j, false)
                 }
             }
         }
 
-        if queensPlaced == n {
-            boards.append(board)
+        if queensPlaced == board.count {
+            solutions.append(board)
         }
 
         return
     }
 
-    func updateHitCells(_ board: inout [[Int]], _ n: Int, _ y: Int, _ x: Int, _ shouldHit: Bool) {
+    func updateHitCells(_ board: inout [[Int]], _ y: Int, _ x: Int, _ shouldHit: Bool) {
         for j in 0..<x {
-            board[y][j] = !shouldHit && canRemoveHit(&board, n, y, j) ? 0 : -1
+            board[y][j] = !shouldHit && canRemoveHit(&board, y, j) ? 0 : -1
         }
 
-        for j in x+1..<n {
-            board[y][j] = !shouldHit && canRemoveHit(&board, n, y, j) ? 0 : -1
+        for j in x+1..<board.count {
+            board[y][j] = !shouldHit && canRemoveHit(&board, y, j) ? 0 : -1
         }
 
         for i in 0..<y {
-            board[i][x] = !shouldHit && canRemoveHit(&board, n, i, x) ? 0 : -1
+            board[i][x] = !shouldHit && canRemoveHit(&board, i, x) ? 0 : -1
         }
 
-        for i in y+1..<n {
-            board[i][x] = !shouldHit && canRemoveHit(&board, n, i, x) ? 0 : -1
+        for i in y+1..<board.count {
+            board[i][x] = !shouldHit && canRemoveHit(&board, i, x) ? 0 : -1
         }
 
         for (i, j) in zip((0..<y).reversed(), (0..<x).reversed()) {
-            board[i][j] = !shouldHit && canRemoveHit(&board, n, i, j) ? 0 : -1
+            board[i][j] = !shouldHit && canRemoveHit(&board, i, j) ? 0 : -1
         }
 
-        for (i, j) in zip(y+1..<n, x+1..<n) {
-            board[i][j] = !shouldHit && canRemoveHit(&board, n, i, j) ? 0 : -1
+        for (i, j) in zip(y+1..<board.count, x+1..<board.count) {
+            board[i][j] = !shouldHit && canRemoveHit(&board, i, j) ? 0 : -1
         }
 
-        for (i, j) in zip((0..<y).reversed(), x+1..<n) {
-            board[i][j] = !shouldHit && canRemoveHit(&board, n, i, j) ? 0 : -1
+        for (i, j) in zip((0..<y).reversed(), x+1..<board.count) {
+            board[i][j] = !shouldHit && canRemoveHit(&board, i, j) ? 0 : -1
         }
 
-        for (i, j) in zip(y+1..<n, (0..<x).reversed()) {
-            board[i][j] = !shouldHit && canRemoveHit(&board, n, i, j) ? 0 : -1
+        for (i, j) in zip(y+1..<board.count, (0..<x).reversed()) {
+            board[i][j] = !shouldHit && canRemoveHit(&board, i, j) ? 0 : -1
         }
     }
 
-    func canRemoveHit(_ board: inout [[Int]], _ n: Int, _ y: Int, _ x: Int) -> Bool {
+    func canRemoveHit(_ board: inout [[Int]], _ y: Int, _ x: Int) -> Bool {
         for j in 0..<x where board[y][j] == 1 {
             return false
         }
 
-        for j in x+1..<n where board[y][j] == 1 {
+        for j in x+1..<board.count where board[y][j] == 1 {
             return false
         }
 
@@ -105,7 +119,7 @@ class Solution {
             return false
         }
 
-        for i in y+1..<n where board[i][x] == 1 {
+        for i in y+1..<board.count where board[i][x] == 1 {
             return false
         }
 
@@ -113,15 +127,15 @@ class Solution {
             return false
         }
 
-        for (i, j) in zip(y+1..<n, x+1..<n) where board[i][j] == 1 {
+        for (i, j) in zip(y+1..<board.count, x+1..<board.count) where board[i][j] == 1 {
             return false
         }
 
-        for (i, j) in zip((0..<y).reversed(), x+1..<n) where board[i][j] == 1 {
+        for (i, j) in zip((0..<y).reversed(), x+1..<board.count) where board[i][j] == 1 {
             return false
         }
 
-        for (i, j) in zip(y+1..<n, (0..<x).reversed()) where board[i][j] == 1 {
+        for (i, j) in zip(y+1..<board.count, (0..<x).reversed()) where board[i][j] == 1 {
             return false
         }
 
