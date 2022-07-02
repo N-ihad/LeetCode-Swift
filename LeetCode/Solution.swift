@@ -9,30 +9,27 @@ import Foundation
 
 class Solution {
     func permute(_ nums: [Int]) -> [[Int]] {
-        var res: [[Int]] = []
-        var nums = nums
-
-        if nums.count == 1 {
-            res.append(nums)
-            return res
-        }
-
-        for _ in 0..<nums.count {
-            let n = nums.removeFirst()
-            var perms = permute(nums)
-            perms.transform { $0.append(n) }
-            perms.forEach { res.append($0) }
-            nums.append(n)
-        }
-
-        return res
+        var result: [[Int]] = []
+        var partialResult: [Int] = []
+        var isVisited: [Bool] = Array<Bool>(repeating: false, count: nums.count)
+        permute(nums, &result, &partialResult, &isVisited)
+        return result
     }
-}
 
-extension Array where Element == [Int] {
-    mutating func transform(_ block: (inout [Int]) -> Void) {
-        for i in 0..<self.count {
-            block(&self[i])
+    private func permute(_ nums: [Int], _ result: inout [[Int]], _ partialResult: inout [Int], _ isVisited: inout [Bool]) {
+        if partialResult.count == nums.count {
+            result.append(partialResult)
+            return
+        }
+
+        for i in 0..<nums.count {
+            if !isVisited[i] {
+                partialResult.append(nums[i])
+                isVisited[i] = true
+                permute(nums, &result, &partialResult, &isVisited)
+                isVisited[i] = false
+                partialResult.removeLast()
+            }
         }
     }
 }

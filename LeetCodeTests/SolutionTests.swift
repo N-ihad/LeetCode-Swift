@@ -34,9 +34,12 @@ class SolutionTests: XCTestCase {
         let result3 = sut.permute(nums3)
 
         // then
-        XCTAssertEqual(result1, [[3, 2, 1], [2, 3, 1], [1, 3, 2], [3, 1, 2], [2, 1, 3], [1, 2, 3]])
-        XCTAssertEqual(result2, [[1, 0], [0, 1]])
-        XCTAssertEqual(result3, [[1]])
+        let expected1 = [[3, 2, 1], [2, 3, 1], [1, 3, 2], [3, 1, 2], [2, 1, 3], [1, 2, 3]]
+        let expected2 = [[1, 0], [0, 1]]
+        let expected3 = [[1]]
+        XCTAssertEqual(Set<[Int]>(result1), Set<[Int]>(expected1))
+        XCTAssertEqual(Set<[Int]>(result2), Set<[Int]>(expected2))
+        XCTAssertEqual(Set<[Int]>(result3), Set<[Int]>(expected3))
     }
 
 //    func testPerformanceExample() throws {
