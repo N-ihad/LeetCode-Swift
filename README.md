@@ -91,6 +91,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Sudoku Solver](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SudokuSolver)
 * [N-Queens](https://github.com/N-ihad/LeetCode-Swift/tree/hard/N-Queens)
 * [N-Queens2](https://github.com/N-ihad/LeetCode-Swift/tree/hard/N-Queens2)
+* [Edit Distance](https://github.com/N-ihad/LeetCode-Swift/tree/hard/EditDistance)
 
 ## Contacts
 * LinkedIn: https://www.linkedin.com/in/nihad-samedov/
