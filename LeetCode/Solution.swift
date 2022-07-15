@@ -31,7 +31,6 @@ class Solution {
         guard let node = node else {
             return 0
         }
-
         let (left, right) = (dfs(node.left, &diameter), dfs(node.right, &diameter))
 
         diameter = max(diameter, left + right)
