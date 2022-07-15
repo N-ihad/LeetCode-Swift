@@ -10,7 +10,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Binary Tree Paths](https://github.com/N-ihad/LeetCode-Swift/tree/easy/BinaryTreePaths)
 * [Climbing Stairs](https://github.com/N-ihad/LeetCode-Swift/tree/easy/ClimbingStairs)
 * [Contains Duplicate](https://github.com/N-ihad/LeetCode-Swift/tree/easy/ContainsDuplicate)
-* [Diameter of Binary Tree](https://github.com/N-ihad/LeetCode-Swift/tree/easy/Diameter-of-Binary-Tree) yet to be solved
+* [Diameter of Binary Tree](https://github.com/N-ihad/LeetCode-Swift/tree/easy/DiameterOfBinaryTree)
 * [Intersection of Two Arrays II](https://github.com/N-ihad/LeetCode-Swift/tree/easy/IntersectionOfTwoArraysII)
 * [Length of Last Word](https://github.com/N-ihad/LeetCode-Swift/tree/easy/LengthOfLastWord)
 * [Linked List Cycle](https://github.com/N-ihad/LeetCode-Swift/tree/easy/LinkedListCycle)
