@@ -12,35 +12,30 @@ class TreeNode {
     var left: TreeNode?
     var right: TreeNode?
 
-    init() {
-        val = 0
-        left = nil
-        right = nil
-    }
-
-    init(_ val: Int) {
-        self.val = val
-        left = nil
-        right = nil
-    }
-
-    init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {
+    init(_ val: Int, _ left: TreeNode? = nil, _ right: TreeNode? = nil) {
         self.val = val
         self.left = left
         self.right = right
     }
 }
-// [4,-7,-3,null,null,-9,-3,9,-7,-4,null,6,null,-6,-6,null,null,0,6,5,null,9,null,null,-1,-4,null,null,null,-2]
+
 class Solution {
-    func dfs(_ node: TreeNode?) -> Int {
-        if node == nil {
+    func diameterOfBinaryTree(_ root: TreeNode?) -> Int {
+        var diameter = 0
+        dfs(root, &diameter)
+        return diameter
+    }
+
+    @discardableResult
+    private func dfs(_ node: TreeNode?, _ diameter: inout Int) -> Int {
+        guard let node = node else {
             return 0
         }
 
-        return max(1 + dfs(node?.left), 1 + dfs(node?.right))
-    }
+        let (left, right) = (dfs(node.left, &diameter), dfs(node.right, &diameter))
 
-    func diameterOfBinaryTree(_ root: TreeNode?) -> Int {
-        return dfs(root?.right) + dfs(root?.left)
+        diameter = max(diameter, left + right)
+
+        return max(left, right) + 1
     }
 }

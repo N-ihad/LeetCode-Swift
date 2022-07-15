@@ -25,7 +25,7 @@ class SolutionTests: XCTestCase {
     func testSolution_diameterOfBinaryTree() {
         // given
         let root1 = TreeNode(1, TreeNode(2, TreeNode(4), TreeNode(5)), TreeNode(3))
-        let root2 = TreeNode(1, TreeNode(2), nil)
+        let root2 = TreeNode(1, TreeNode(2))
 
         // when
         let result1 = sut.diameterOfBinaryTree(root1)
