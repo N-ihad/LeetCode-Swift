@@ -38,6 +38,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Backspace String Compare](https://github.com/N-ihad/LeetCode-Swift/tree/easy/BackspaceStringCompare)
 * [Valid Anagram](https://github.com/N-ihad/LeetCode-Swift/tree/easy/ValidAnagram)
 * [First Unique Character in a String](https://github.com/N-ihad/LeetCode-Swift/tree/easy/FirstUniqueCharacterInAString)
+* [Find Pivot Index](https://github.com/N-ihad/LeetCode-Swift/tree/easy/FindPivotIndex)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
