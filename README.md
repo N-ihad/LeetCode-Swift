@@ -94,6 +94,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [N-Queens2](https://github.com/N-ihad/LeetCode-Swift/tree/hard/N-Queens2)
 * [Edit Distance](https://github.com/N-ihad/LeetCode-Swift/tree/hard/EditDistance)
 * [Merge k Sorted Lists](https://github.com/N-ihad/LeetCode-Swift/tree/hard/Merge-k-SortedLists)
+* [Median of Two Sorted Arrays](https://github.com/N-ihad/LeetCode-Swift/tree/hard/MedianOfTwoSortedArrays)
 
 ## Contacts
 * LinkedIn: https://www.linkedin.com/in/nihad-samedov/
