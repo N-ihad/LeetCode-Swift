@@ -95,6 +95,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Edit Distance](https://github.com/N-ihad/LeetCode-Swift/tree/hard/EditDistance)
 * [Merge k Sorted Lists](https://github.com/N-ihad/LeetCode-Swift/tree/hard/Merge-k-SortedLists)
 * [Median of Two Sorted Arrays](https://github.com/N-ihad/LeetCode-Swift/tree/hard/MedianOfTwoSortedArrays)
+* [Wildcard Matching](https://github.com/N-ihad/LeetCode-Swift/tree/hard/WildcardMatching)
 
 ## Contacts
 * LinkedIn: https://www.linkedin.com/in/nihad-samedov/
