@@ -98,6 +98,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Wildcard Matching](https://github.com/N-ihad/LeetCode-Swift/tree/hard/WildcardMatching)
 * [Binary Tree Maximum Path Sum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/BinaryTreeMaximumPathSum)
 * [Longest Increasing Path in a Matrix](https://github.com/N-ihad/LeetCode-Swift/tree/hard/LongestIncreasingPathInAMatrix)
+* [First Missing Positive](https://github.com/N-ihad/LeetCode-Swift/tree/hard/FirstMissingPositive)
 
 ## Contacts
 * LinkedIn: https://www.linkedin.com/in/nihad-samedov/
