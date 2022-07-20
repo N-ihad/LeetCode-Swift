@@ -17,17 +17,16 @@ class Solution {
             nums[i] = nums[i] > nums.count || nums[i] <= 0 ? 1 : nums[i]
         }
 
+        if !containsOne { return 1 }
+
         for i in 0..<nums.count {
             nums[abs(nums[i])-1] = nums[abs(nums[i])-1] < 0 ? nums[abs(nums[i])-1] : -nums[abs(nums[i])-1]
         }
 
-        if !containsOne { return 1 }
-
         for i in 0..<nums.count {
             if nums[i] > 0 { return i + 1 }
-            if i + 1 == nums.count { return nums.count + 1 }
         }
 
-        return -1
+        return nums.count + 1
     }
 }
