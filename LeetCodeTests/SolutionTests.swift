@@ -30,9 +30,9 @@ class SolutionTests: XCTestCase {
         let points4 = [[0,0],[4,5],[7,8],[8,9],[5,6],[3,4],[1,1]]
 
         // when
-//        let result1 = sut.maxPoints(points1)
-//        let result2 = sut.maxPoints(points2)
-//        let result3 = sut.maxPoints(points3)
+        let result1 = sut.maxPoints(points1)
+        let result2 = sut.maxPoints(points2)
+        let result3 = sut.maxPoints(points3)
         let result4 = sut.maxPoints(points4)
 
         // then
@@ -41,9 +41,9 @@ class SolutionTests: XCTestCase {
         let expected3 = 1
         let expected4 = 5
 
-//        XCTAssertEqual(result1, expected1)
-//        XCTAssertEqual(result2, expected2)
-//        XCTAssertEqual(result3, expected3)
+        XCTAssertEqual(result1, expected1)
+        XCTAssertEqual(result2, expected2)
+        XCTAssertEqual(result3, expected3)
         XCTAssertEqual(result4, expected4)
     }
 }
