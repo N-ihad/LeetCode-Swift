@@ -52,7 +52,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [LRU Cache](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LRUCache) yet to be solved
 * [Longest Increasing Subsequence](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestIncreasingSubsequence)
 * [Longest Palindromic Substring](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestPalindromicSubstring)
-* [Longest Substring Without Repeating Characters](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestSubstringWithoutRepeatingCharacters) yet to be solved
+* [Longest Substring Without Repeating Characters](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestSubstringWithoutRepeatingCharacters)
 * [Merge Intervals](https://github.com/N-ihad/LeetCode-Swift/tree/medium/MergeIntervals)
 * [Minimum Path Sum](https://github.com/N-ihad/LeetCode-Swift/tree/medium/MinimumPathSum)
 * [Number of Islands](https://github.com/N-ihad/LeetCode-Swift/tree/medium/NumberOfIslands)
