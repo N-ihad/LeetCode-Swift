@@ -33,13 +33,13 @@ class SolutionTests: XCTestCase {
         let str7 = "abba"
 
         // when
-        let result7 = sut.lengthOfLongestSubstring(str7)
         let result1 = sut.lengthOfLongestSubstring(str1)
         let result2 = sut.lengthOfLongestSubstring(str2)
         let result3 = sut.lengthOfLongestSubstring(str3)
         let result4 = sut.lengthOfLongestSubstring(str4)
         let result5 = sut.lengthOfLongestSubstring(str5)
         let result6 = sut.lengthOfLongestSubstring(str6)
+        let result7 = sut.lengthOfLongestSubstring(str7)
 
         // then
         let expected1 = 3

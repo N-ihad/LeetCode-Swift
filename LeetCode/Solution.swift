@@ -7,28 +7,50 @@
 
 import Foundation
 
-class Solution { // dvdg
+class Solution {
     func lengthOfLongestSubstring(_ s: String) -> Int {
-        let str = Array(s)
-        if s.isEmpty { return 0 }
+        let s = Array(s)
+        var set = Set<Character>([])
+        var maxVal = 0
+        var L = 0
 
-        var i = 0
-        var j = 0
-        var max = 0
-        var hashMap: [Character: Int] = [:]
-        while i < s.count {
-            while j != s.count && hashMap[str[j]] == nil {
-                hashMap[str[j]] = j
-                j += 1
+        for i in 0..<s.count {
+            if set.contains(s[i]) {
+                maxVal = max(i - L, maxVal)
+                while L != i && set.contains(s[i]) {
+                    set.remove(s[L])
+                    L += 1
+                }
             }
-            max = j - i > max ? j - i : max
-            var dsdsd = Set([1, 2, 3,3 ])
-            dsdsd.remove(1)
-            let ii = i
-            i = (j < s.count && hashMap[str[j]] != nil) ? hashMap[str[j]]! + 1 : i + 1
-            for k in ii...j where k < s.count { hashMap[str[k]] = nil }
+
+            maxVal = max(i - L + 1, maxVal)
+            set.insert(s[i])
         }
 
-        return max
+        return maxVal
     }
+
+    /// A little slower
+//    func lengthOfLongestSubstring(_ s: String) -> Int {
+//        let s = Array(s)
+//        var maxVal = 0
+//        var i = 0
+//        var hashTable: [Character: Int] = [:]
+//
+//        while i < s.count {
+//            if hashTable[s[i]] != nil {
+//                maxVal = max(hashTable.count, maxVal)
+//                i = hashTable[s[i]]!
+//                hashTable = [:]
+//                continue
+//            }
+//
+//            hashTable[s[i]] = i + 1
+//            i += 1
+//        }
+//
+//        maxVal = max(hashTable.count, maxVal)
+//
+//        return maxVal
+//    }
 }
