@@ -9,14 +9,14 @@ import Foundation
 
 class Solution {
     func uniquePaths(_ m: Int, _ n: Int) -> Int {
-        func BFS(_ mm: Int, _ nn: Int) -> Int {
-            if mm == m && nn == n { return 1 }
-            if mm == m { return 1 }
-            if nn == n { return 1 }
+        var matrix = Array(repeating: Array(repeating: 1, count: n), count: m)
 
-            return BFS(mm + 1, nn) + BFS(mm, nn + 1)
+        for i in 1..<matrix.count {
+            for j in 1..<matrix[0].count {
+                matrix[i][j] = matrix[i-1][j] + matrix[i][j-1]
+            }
         }
 
-        return BFS(1, 1)
+        return matrix[m-1][n-1]
     }
 }
