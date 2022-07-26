@@ -22,7 +22,7 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
+    func testSolution_isValidBST() {
         // given
         let node1 = TreeNode(1)
         let node2 = TreeNode(2)
