@@ -67,7 +67,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Top K Frequent Elements](https://github.com/N-ihad/LeetCode-Swift/tree/medium/TopKFrequentElements)
 * [Unique Paths](https://github.com/N-ihad/LeetCode-Swift/tree/medium/UniquePaths)
 * [Valid Sudoku](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ValidSudoku)
-* [Validate Binary Search Tree](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ValidateBinarySearchTree) yet to be solved
+* [Validate Binary Search Tree](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ValidateBinarySearchTree)
 * [Word Search](https://github.com/N-ihad/LeetCode-Swift/tree/medium/WordSearch)
 * [Search a 2D Matrix II](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SearchA2DMatrixII)
 * [Kth Smallest Element in a BST](https://github.com/N-ihad/LeetCode-Swift/tree/medium/KthSmallestElementInABST)
