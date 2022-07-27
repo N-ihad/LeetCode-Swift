@@ -10,8 +10,8 @@ import Foundation
 // given
 let sut = Solution()
 
-let head1 = [1, 2, 3, 4, 5]
-let head2 = [2, 1, 3, 5, 6, 4, 7]
+let head1 = [1, 2, 3, 4]
+let head2 = [1, 2, 3, 4, 5]
 
 // when
 let result1 = sut.oddEvenList(Helper.makeList(fromArray: head1))
