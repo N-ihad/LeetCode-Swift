@@ -49,7 +49,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Generate Parentheses](https://github.com/N-ihad/LeetCode-Swift/tree/medium/GenerateParentheses)
 * [Group Anagrams](https://github.com/N-ihad/LeetCode-Swift/tree/medium/GroupAnagrams)
 * [Integer to Roman](https://github.com/N-ihad/LeetCode-Swift/tree/medium/IntegerToRoman)
-* [LRU Cache](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LRUCache) yet to be solved
+* [LRU Cache](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LRUCache)
 * [Longest Increasing Subsequence](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestIncreasingSubsequence)
 * [Longest Palindromic Substring](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestPalindromicSubstring)
 * [Longest Substring Without Repeating Characters](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestSubstringWithoutRepeatingCharacters)
