@@ -8,9 +8,11 @@
 import Foundation
 
 class Node {
-    var next: Node?
+    let key: Int
     var value: Int
-    var key: Int
+
+    var prev: Node?
+    var next: Node?
 
     init(key: Int, value: Int) {
         self.value = value
@@ -27,107 +29,112 @@ class LinkedList {
         tail = nil
     }
 
-    init(head: Node) {
-        self.head = head
-        tail = head
-    }
-
     func insert(_ node: Node) {
         if head == nil {
             head = node
-            tail = head
+        } else if tail == nil {
+            node.prev = head
+            head!.next = node
+            tail = node
         } else {
-            tail?.next = node
+            tail!.next = node
+            node.prev = tail
             tail = node
         }
     }
 
-    func findNode(withKey key: Int) -> Node? {
-        var head = head
-        while head != nil {
-            if head!.key == key {
-                return head
-            }
+    func updateList(withNode node: Node) {
+        if node.prev == nil {
+            tail?.next = node
             head = head?.next
+            head?.prev = nil
+            node.next = nil
+            node.prev = tail
+            tail = node
+        } else {
+            tail!.next = node
+            node.prev?.next = node.next
+            node.next?.prev = node.prev
+            node.next = nil
+            node.prev = tail
+            tail = node
         }
-        return nil
+    }
+
+    func updateListWithOnlyOneNode(_ node: Node) {
+        head = node
     }
 }
 
-class LRUStack {
-    var keys: [Int]
-    var bottom: Int
-
-    init() {
-        keys = []
-        bottom = -2
-    }
-
-    func push(_ key: Int) {
-        keys.append(key)
-    }
-}
 
 class LRUCache {
-
-    let capacity: Int
-    var elements: [LinkedList]
-    private let lruStack: LRUStack
-    private var numberOfKeys: Int
+    private let capacity: Int
+    let list = LinkedList()
+    private var listHashMap: [Int: Node] = [:]
 
     init(_ capacity: Int) {
         self.capacity = capacity
-        elements = []
-        lruStack = LRUStack()
-        numberOfKeys = 0
-
-        for _ in 0..<capacity {
-            elements.append(LinkedList())
-        }
     }
 
+    @discardableResult
     func get(_ key: Int) -> Int {
-        let i = index(hash(key))
-
-        if let element = elements[i].findNode(withKey: key) {
-            updatePriorityList()
-            return element.value
-        } else {
-            return -1
+        if listHashMap.count == 0 ||
+           listHashMap.count == 1 ||
+           listHashMap[key] == nil  {
+            return listHashMap[key]?.value ?? -1
         }
+
+        if let node = listHashMap[key] {
+
+            if node.next == nil { return node.value }
+
+            list.updateList(withNode: node)
+            return node.value
+        }
+
+        return -999
     }
 
     func put(_ key: Int, _ value: Int) {
-        let i = index(hash(key))
-
-        if let element = elements[i].findNode(withKey: key) {
-            element.value = value
-            updatePriorityList()
-        } else {
-            if numberOfKeys > capacity {
-                doTheMagic()
-            } else {
-                numberOfKeys += 1
-                elements[i].insert(Node(key: key, value: value))
-            }
+        if capacity == 1,
+           listHashMap.count == 1 {
+            let node = Node(key: key, value: value)
+            listHashMap[list.head!.key] = nil
+            listHashMap[node.key] = node
+            list.updateListWithOnlyOneNode(node)
+            return
         }
-    }
 
-    // Rearrange the list so that it satisfies LRU list
-    private func updatePriorityList() {
+        if listHashMap.count < capacity,
+           let node = listHashMap[key] {
+            node.value = value
+            if node.next == nil { return }
+            list.updateList(withNode: node)
+            return
+        }
 
-    }
+        if listHashMap.count >= capacity,
+           let node = listHashMap[key] {
+            node.value = value
+            if node.next == nil { return }
+            list.updateList(withNode: node)
+            return
+        }
 
-    // If number of keys exceeds the capacity replace LRU element by a new one
-    private func doTheMagic() {
-        updatePriorityList()
-    }
+        if listHashMap.count >= capacity,
+           listHashMap[key] == nil {
+            let node = Node(key: key, value: value)
+            listHashMap[list.head!.key] = nil
+            listHashMap[key] = node
+            list.updateList(withNode: node)
+            return
+        }
 
-    private func hash(_ key: Int) -> Int {
-        return key
-    }
-
-    private func index(_ hash: Int) -> Int {
-        return hash % capacity
+        if listHashMap.count < capacity {
+            let node = Node(key: key, value: value)
+            listHashMap[key] = node
+            list.insert(node)
+            return
+        }
     }
 }
