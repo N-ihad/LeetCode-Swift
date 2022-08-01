@@ -86,6 +86,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Combinations](https://github.com/N-ihad/LeetCode-Swift/tree/medium/Combinations)
 * [Rotate Array](https://github.com/N-ihad/LeetCode-Swift/tree/medium/RotateArray)
 * [Flatten Binary Tree to Linked List](https://github.com/N-ihad/LeetCode-Swift/tree/medium/FlattenBinaryTreeToLinkedList)
+* [Word Break](https://github.com/N-ihad/LeetCode-Swift/tree/medium/WordBreak)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
