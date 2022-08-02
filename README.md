@@ -103,6 +103,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Longest Increasing Path in a Matrix](https://github.com/N-ihad/LeetCode-Swift/tree/hard/LongestIncreasingPathInAMatrix)
 * [First Missing Positive](https://github.com/N-ihad/LeetCode-Swift/tree/hard/FirstMissingPositive)
 * [Max Points on a Line](https://github.com/N-ihad/LeetCode-Swift/tree/hard/MaxPointsOnALine)
+* [Word Break II](https://github.com/N-ihad/LeetCode-Swift/tree/hard/WordBreakII)
 
 ## Contacts
 * LinkedIn: https://www.linkedin.com/in/nihad-samedov/
