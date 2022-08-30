@@ -90,6 +90,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Word Break](https://github.com/N-ihad/LeetCode-Swift/tree/medium/WordBreak)
 * [My Calendar I](https://github.com/N-ihad/LeetCode-Swift/tree/medium/MyCalendarI)
 * [Sort the Matrix Diagonally](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SortTheMatrixDiagonally)
+* [Airplane Seat Assignment Probability](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AirplaneSeatAssignmentProbability)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
