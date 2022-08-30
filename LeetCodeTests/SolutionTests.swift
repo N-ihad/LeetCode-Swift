@@ -22,11 +22,29 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
+    func testSolution_nthPersonGetsNthSeat_1() {
         // given
+        let n = 1
 
         // when
+        let result = sut.nthPersonGetsNthSeat(n)
 
         // then
+        let expected: Double = 1
+
+        XCTAssertEqual(result, expected)
+    }
+
+    func testSolution_nthPersonGetsNthSeat_2() {
+        // given
+        let n = 2
+
+        // when
+        let result = sut.nthPersonGetsNthSeat(n)
+
+        // then
+        let expected: Double = 0.5
+
+        XCTAssertEqual(result, expected)
     }
 }
