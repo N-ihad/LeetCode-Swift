@@ -91,6 +91,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [My Calendar I](https://github.com/N-ihad/LeetCode-Swift/tree/medium/MyCalendarI)
 * [Sort the Matrix Diagonally](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SortTheMatrixDiagonally)
 * [Airplane Seat Assignment Probability](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AirplaneSeatAssignmentProbability)
+* [Design Add and Search Words Data Structure](https://github.com/N-ihad/LeetCode-Swift/tree/medium/DesignAddAndSearchWordsDataStructure)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
