@@ -93,6 +93,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Airplane Seat Assignment Probability](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AirplaneSeatAssignmentProbability)
 * [Design Add and Search Words Data Structure](https://github.com/N-ihad/LeetCode-Swift/tree/medium/DesignAddAndSearchWordsDataStructure)
 * [Reverse Integer](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ReverseInteger)
+* [Container With Most Water](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ContainerWithMostWater)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
