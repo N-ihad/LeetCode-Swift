@@ -92,6 +92,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Sort the Matrix Diagonally](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SortTheMatrixDiagonally)
 * [Airplane Seat Assignment Probability](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AirplaneSeatAssignmentProbability)
 * [Design Add and Search Words Data Structure](https://github.com/N-ihad/LeetCode-Swift/tree/medium/DesignAddAndSearchWordsDataStructure)
+* [Reverse Integer](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ReverseInteger)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
