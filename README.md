@@ -40,6 +40,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [First Unique Character in a String](https://github.com/N-ihad/LeetCode-Swift/tree/easy/FirstUniqueCharacterInAString)
 * [Find Pivot Index](https://github.com/N-ihad/LeetCode-Swift/tree/easy/FindPivotIndex)
 * [Binary Tree Inorder Traversal](https://github.com/N-ihad/LeetCode-Swift/tree/easy/BinaryTreeInorderTraversal)
+* [Minimum Difference Between Highest and Lowest of K Scores](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MinimumDifferenceBetweenHighestAndLowestOfKScores)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
@@ -94,7 +95,6 @@ Problems are categorized into: easy, medium, hard within branches
 * [Design Add and Search Words Data Structure](https://github.com/N-ihad/LeetCode-Swift/tree/medium/DesignAddAndSearchWordsDataStructure)
 * [Reverse Integer](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ReverseInteger)
 * [Container With Most Water](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ContainerWithMostWater)
-* [Minimum Difference Between Highest and Lowest of K Scores](https://github.com/N-ihad/LeetCode-Swift/tree/Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
