@@ -41,6 +41,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Find Pivot Index](https://github.com/N-ihad/LeetCode-Swift/tree/easy/FindPivotIndex)
 * [Binary Tree Inorder Traversal](https://github.com/N-ihad/LeetCode-Swift/tree/easy/BinaryTreeInorderTraversal)
 * [Minimum Difference Between Highest and Lowest of K Scores](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MinimumDifferenceBetweenHighestAndLowestOfKScores)
+* [Minimum Recolors to Get K Consecutive Black Blocks](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MinimumRecolorsToGetKConsecutiveBlackBlocks)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
