@@ -97,6 +97,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Reverse Integer](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ReverseInteger)
 * [Container With Most Water](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ContainerWithMostWater)
 * [Jump Game](https://github.com/N-ihad/LeetCode-Swift/tree/medium/JumpGame)
+* [Push Dominoes](https://github.com/N-ihad/LeetCode-Swift/tree/medium/PushDominoes)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
