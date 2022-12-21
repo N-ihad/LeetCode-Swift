@@ -93,6 +93,14 @@ struct Helper {
         print()
     }
 
+    static func treeString(_ root: TreeNode?) -> String {
+        guard let root = root else { return "" }
+        let nodeInfo: (TreeNode) -> (String, TreeNode?, TreeNode?) = { root in
+            return (String(root.val), root.left, root.right)
+        }
+        return treeString(root, using: nodeInfo)
+    }
+
     private static func treeString<T>(_ node: T,
                                       reversed: Bool = false,
                                       isTop: Bool = true,
