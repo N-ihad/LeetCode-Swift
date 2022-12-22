@@ -98,6 +98,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Container With Most Water](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ContainerWithMostWater)
 * [Jump Game](https://github.com/N-ihad/LeetCode-Swift/tree/medium/JumpGame)
 * [Push Dominoes](https://github.com/N-ihad/LeetCode-Swift/tree/medium/PushDominoes)
+* [Unique Binary Search Trees](https://github.com/N-ihad/LeetCode-Swift/tree/medium/UniqueBinarySearchTrees)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
