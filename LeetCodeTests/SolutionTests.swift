@@ -22,11 +22,42 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
+    func testSolution_numTrees_1() {
         // given
+        let n = 3
 
         // when
+        let result = sut.numTrees(n)
 
         // then
+        let expected = 5
+
+        XCTAssertEqual(result, expected)
+    }
+
+    func testSolution_numTrees_2() {
+        // given
+        let n = 1
+
+        // when
+        let result = sut.numTrees(n)
+
+        // then
+        let expected = 1
+
+        XCTAssertEqual(result, expected)
+    }
+
+    func testSolution_numTrees_3() {
+        // given
+        let n = 2
+
+        // when
+        let result = sut.numTrees(n)
+
+        // then
+        let expected = 2
+
+        XCTAssertEqual(result, expected)
     }
 }
