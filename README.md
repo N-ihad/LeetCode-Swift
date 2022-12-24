@@ -100,6 +100,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Jump Game](https://github.com/N-ihad/LeetCode-Swift/tree/medium/JumpGame)
 * [Push Dominoes](https://github.com/N-ihad/LeetCode-Swift/tree/medium/PushDominoes)
 * [Unique Binary Search Trees](https://github.com/N-ihad/LeetCode-Swift/tree/medium/UniqueBinarySearchTrees)
+* [Binary Tree Level Order Traversal II](https://github.com/N-ihad/LeetCode-Swift/tree/medium/BinaryTreeLevelOrderTraversalII)
 
 ### Hard
 * [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
