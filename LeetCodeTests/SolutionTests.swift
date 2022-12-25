@@ -22,11 +22,29 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
+    func testSolution_sumNumbers_1() {
         // given
+        let root = TreeNode(1, TreeNode(2), TreeNode(3))
 
         // when
+        let result = sut.sumNumbers(root)
 
         // then
+        let expected = 25
+
+        XCTAssertEqual(result, expected)
+    }
+
+    func testSolution_sumNumbers_2() {
+        // given
+        let root = TreeNode(4, TreeNode(9, TreeNode(5), TreeNode(1)), TreeNode(0))
+
+        // when
+        let result = sut.sumNumbers(root)
+
+        // then
+        let expected = 1026
+
+        XCTAssertEqual(result, expected)
     }
 }
