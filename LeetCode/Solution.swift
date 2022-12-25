@@ -15,15 +15,15 @@ class Solution {
         return maxValue
     }
 
-    func DFS(_ root: TreeNode?, _ counter: Int) {
+    func DFS(_ root: TreeNode?, _ currentLevel: Int) {
         if root == nil { return }
 
-        if counter > maxLevel {
-            maxLevel = counter
+        if currentLevel > maxLevel {
+            maxLevel = currentLevel
             maxValue = root!.val
         }
 
-        DFS(root!.left, counter + 1)
-        DFS(root!.right, counter + 1)
+        DFS(root!.left, currentLevel + 1)
+        DFS(root!.right, currentLevel + 1)
     }
 }
