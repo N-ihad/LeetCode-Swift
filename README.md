@@ -43,6 +43,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Two Sum](https://github.com/N-ihad/LeetCode-Swift/tree/easy/TwoSum)
 * [Valid Anagram](https://github.com/N-ihad/LeetCode-Swift/tree/easy/ValidAnagram)
 * [Valid Parentheses](https://github.com/N-ihad/LeetCode-Swift/tree/easy/ValidParentheses)
+* [Path Sum](https://github.com/N-ihad/LeetCode-Swift/tree/easy/PathSum)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
