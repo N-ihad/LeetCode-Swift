@@ -103,6 +103,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Validate Binary Search Tree](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ValidateBinarySearchTree)
 * [Word Break](https://github.com/N-ihad/LeetCode-Swift/tree/medium/WordBreak)
 * [Word Search](https://github.com/N-ihad/LeetCode-Swift/tree/medium/WordSearch)
+* [Path Sum II](https://github.com/N-ihad/LeetCode-Swift/tree/medium/PathSumII)
 
 ### Hard
 * [Binary Tree Maximum Path Sum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/BinaryTreeMaximumPathSum)
