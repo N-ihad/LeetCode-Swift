@@ -46,6 +46,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Path Sum](https://github.com/N-ihad/LeetCode-Swift/tree/easy/PathSum)
 * [Detect Capital](https://github.com/N-ihad/LeetCode-Swift/tree/easy/DetectCapital)
 * [Delete Columns to Make Sorted](https://github.com/N-ihad/LeetCode-Swift/tree/easy/DeleteColumnsToMakeSorted)
+* [Word Pattern](https://github.com/N-ihad/LeetCode-Swift/tree/easy/WordPattern)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
