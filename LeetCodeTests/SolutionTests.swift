@@ -22,11 +22,59 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
+    func testSolution_wordPattern_1() {
         // given
+        let pattern = "abba"
+        let s = "dog cat cat dog"
 
         // when
+        let result = sut.wordPattern(pattern, s)
 
         // then
+        let expected = true
+
+        XCTAssertEqual(result, expected)
+    }
+
+    func testSolution_wordPattern_2() {
+        // given
+        let pattern = "abba"
+        let s = "dog cat cat fish"
+
+        // when
+        let result = sut.wordPattern(pattern, s)
+
+        // then
+        let expected = false
+
+        XCTAssertEqual(result, expected)
+    }
+
+    func testSolution_wordPattern_3() {
+        // given
+        let pattern = "aaaa"
+        let s = "dog cat cat dog"
+
+        // when
+        let result = sut.wordPattern(pattern, s)
+
+        // then
+        let expected = false
+
+        XCTAssertEqual(result, expected)
+    }
+
+    func testSolution_wordPattern_4() {
+        // given
+        let pattern = "abba"
+        let s = "dog dog dog dog"
+
+        // when
+        let result = sut.wordPattern(pattern, s)
+
+        // then
+        let expected = false
+
+        XCTAssertEqual(result, expected)
     }
 }
