@@ -1,6 +1,10 @@
 # LeetCode Swift
 Some solved LeetCode problems in Swift I thought I'd share if someone needs (among like tens of thousands of other resources out there lol anyway)
 
+## Contacts
+* LinkedIn: https://www.linkedin.com/in/nihad-samedov/
+* Telegram: @Nihad_s
+
 ## Branches
 Problems are categorized into: easy, medium, hard within branches
 
@@ -126,7 +130,3 @@ Problems are categorized into: easy, medium, hard within branches
 * [Trapping Rain Water](https://github.com/N-ihad/LeetCode-Swift/tree/hard/TrappingRainWater)
 * [Wildcard Matching](https://github.com/N-ihad/LeetCode-Swift/tree/hard/WildcardMatching)
 * [Word Break II](https://github.com/N-ihad/LeetCode-Swift/tree/hard/WordBreakII)
-
-## Contacts
-* LinkedIn: https://www.linkedin.com/in/nihad-samedov/
-* Telegram: @Nihad_s
