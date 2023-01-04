@@ -22,11 +22,29 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
+    func testSolution_minimumRounds_1() {
         // given
+        let tasks = [2,2,3,3,2,4,4,4,4,4]
 
         // when
+        let result = sut.minimumRounds(tasks)
 
         // then
+        let expected = 4
+
+        XCTAssertEqual(result, expected)
+    }
+
+    func testSolution_minimumRounds_2() {
+        // given
+        let tasks = [2,3,3]
+
+        // when
+        let result = sut.minimumRounds(tasks)
+
+        // then
+        let expected = -1
+
+        XCTAssertEqual(result, expected)
     }
 }
