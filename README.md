@@ -107,7 +107,6 @@ Problems are categorized into: easy, medium, hard within branches
 * [Word Search](https://github.com/N-ihad/LeetCode-Swift/tree/medium/WordSearch)
 * [Path Sum II](https://github.com/N-ihad/LeetCode-Swift/tree/medium/PathSumII)
 * [Sum Root to Leaf Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SumRootToLeafNumbers)
-* [Minimum Rounds to Complete All Tasks](https://github.com/N-ihad/LeetCode-Swift/tree/medium/MinimumRoundsToCompleteAllTasks)
 
 ### Hard
 * [Binary Tree Maximum Path Sum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/BinaryTreeMaximumPathSum)
