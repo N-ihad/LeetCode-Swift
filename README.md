@@ -114,6 +114,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Sum Root to Leaf Numbers](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SumRootToLeafNumbers/LeetCode/Solution.swift)
 * [Minimum Rounds to Complete All Tasks](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumRoundsToCompleteAllTasks/LeetCode/Solution.swift)
 * [Gas Station](https://github.com/N-ihad/LeetCode-Swift/blob/medium/GasStation/LeetCode/Solution.swift)
+* [Minimum Number of Arrows to Burst Balloons](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumNumberOfArrowsToBurstBalloons/LeetCode/Solution.swift)
 
 ### Hard
 * [Binary Tree Maximum Path Sum](https://github.com/N-ihad/LeetCode-Swift/blob/hard/BinaryTreeMaximumPathSum/LeetCode/Solution.swift)
