@@ -17,11 +17,9 @@ class Solution {
                 return i
             }
 
-            if i == costs.count - 1 { return i + 1 }
-
             coins -= costs[i]
         }
 
-        return 0
+        return costs.count
     }
 }
