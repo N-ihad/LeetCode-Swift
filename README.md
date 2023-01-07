@@ -116,6 +116,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Gas Station](https://github.com/N-ihad/LeetCode-Swift/blob/medium/GasStation/LeetCode/Solution.swift)
 * [Minimum Number of Arrows to Burst Balloons](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumNumberOfArrowsToBurstBalloons/LeetCode/Solution.swift)
 * [Maximum Ice Cream Bars](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumIceCreamBars/LeetCode/Solution.swift)
+* [Zigzag Conversion](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ZigzagConversion/LeetCode/Solution.swift)
 
 ### Hard
 * [Binary Tree Maximum Path Sum](https://github.com/N-ihad/LeetCode-Swift/blob/hard/BinaryTreeMaximumPathSum/LeetCode/Solution.swift)
