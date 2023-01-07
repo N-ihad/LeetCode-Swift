@@ -22,11 +22,45 @@ class SolutionTests: XCTestCase {
         super.tearDown()
     }
 
-    func testSolution_() {
+    func testSolution_convert_1() {
         // given
+        let s = "PAYPALISHIRING"
+        let numRows = 3
 
         // when
+        let result = sut.convert(s, numRows)
 
         // then
+        let expected = "PAHNAPLSIIGYIR"
+
+        XCTAssertEqual(result, expected)
+    }
+
+    func testSolution_convert_2() {
+        // given
+        let s = "PAYPALISHIRING"
+        let numRows = 4
+
+        // when
+        let result = sut.convert(s, numRows)
+
+        // then
+        let expected = "PINALSIGYAHRPI"
+
+        XCTAssertEqual(result, expected)
+    }
+
+    func testSolution_convert_3() {
+        // given
+        let s = "A"
+        let numRows = 1
+
+        // when
+        let result = sut.convert(s, numRows)
+
+        // then
+        let expected = "A"
+
+        XCTAssertEqual(result, expected)
     }
 }
