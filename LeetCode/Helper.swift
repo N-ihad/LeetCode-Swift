@@ -30,6 +30,15 @@ class TreeNode {
 }
 
 struct Helper {
+    static func printMatrix(_ matrix: [[Character]]) {
+        for i in 0..<matrix.count {
+            for j in 0..<matrix[0].count {
+                print(matrix[i][j], terminator: " ")
+            }
+            print()
+        }
+    }
+
     static func printMatrix(_ matrix: inout [[Int]]) {
         guard !matrix.isEmpty else {
             return
