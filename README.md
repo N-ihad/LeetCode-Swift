@@ -134,3 +134,4 @@ Problems are categorized into: easy, medium, hard within branches
 * [Trapping Rain Water](https://github.com/N-ihad/LeetCode-Swift/blob/hard/TrappingRainWater/LeetCode/Solution.swift)
 * [Wildcard Matching](https://github.com/N-ihad/LeetCode-Swift/blob/hard/WildcardMatching/LeetCode/Solution.swift)
 * [Word Break II](https://github.com/N-ihad/LeetCode-Swift/blob/hard/WordBreakII/LeetCode/Solution.swift)
+* [Reverse Nodes in k-Group](https://github.com/N-ihad/LeetCode-Swift/blob/hard/ReverseNodesIn-k-Group/LeetCode/Solution.swift)
