@@ -51,6 +51,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Detect Capital](https://github.com/N-ihad/LeetCode-Swift/blob/easy/DetectCapital/LeetCode/Solution.swift)
 * [Delete Columns to Make Sorted](https://github.com/N-ihad/LeetCode-Swift/blob/easy/DeleteColumnsToMakeSorted/LeetCode/Solution.swift)
 * [Word Pattern](https://github.com/N-ihad/LeetCode-Swift/blob/easy/WordPattern/LeetCode/Solution.swift)
+* [Binary Tree Preorder Traversal](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryTreePreorderTraversal/LeetCode/Solution.swift)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/blob/medium/AddTwoNumbers/LeetCode/Solution.swift)
