@@ -3,7 +3,7 @@ Some solved LeetCode problems in Swift I thought I'd share if someone needs (amo
 
 ## Contacts
 * LinkedIn: https://www.linkedin.com/in/nihad-samedov/
-* Telegram: @Nihad_s
+* Telegram: @Nihad_s | https://t.me/Nihad_s
 
 ## Branches
 Problems are categorized into: easy, medium, hard within branches
