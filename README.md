@@ -120,6 +120,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Zigzag Conversion](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ZigzagConversion/LeetCode/Solution.swift)
 * [Sort List](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SortList/LeetCode/Solution.swift)
 * [Minimum Time to Collect All Apples in a Tree](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumTimeToCollectAllApplesInATree/LeetCode/Solution.swift)
+* [Number of Nodes in the Sub-Tree With the Same Label](https://github.com/N-ihad/LeetCode-Swift/blob/medium/NumberOfNodesInTheSub-TreeWithTheSameLabel/LeetCode/Solution.swift)
 
 ### Hard
 * [Binary Tree Maximum Path Sum](https://github.com/N-ihad/LeetCode-Swift/blob/hard/BinaryTreeMaximumPathSum/LeetCode/Solution.swift)
