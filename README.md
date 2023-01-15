@@ -122,6 +122,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Minimum Time to Collect All Apples in a Tree](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumTimeToCollectAllApplesInATree/LeetCode/Solution.swift)
 * [Number of Nodes in the Sub-Tree With the Same Label](https://github.com/N-ihad/LeetCode-Swift/blob/medium/NumberOfNodesInTheSub-TreeWithTheSameLabel/LeetCode/Solution.swift)
 * [Swap Nodes in Pairs](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SwapNodesInPairs/LeetCode/Solution.swift)
+* [Lexicographically Smallest Equivalent String](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LexicographicallySmallestEquivalentString/LeetCode/Solution.swift)
 
 ### Hard
 * [Binary Tree Maximum Path Sum](https://github.com/N-ihad/LeetCode-Swift/blob/hard/BinaryTreeMaximumPathSum/LeetCode/Solution.swift)
