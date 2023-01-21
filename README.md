@@ -53,6 +53,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Word Pattern](https://github.com/N-ihad/LeetCode-Swift/blob/easy/WordPattern/LeetCode/Solution.swift)
 * [Binary Tree Preorder Traversal](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryTreePreorderTraversal/LeetCode/Solution.swift)
 * [Balanced Binary Tree](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BalancedBinaryTree/LeetCode/Solution.swift)
+* [Valid Palindrome](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ValidPalindrome/LeetCode/Solution.swift)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/blob/medium/AddTwoNumbers/LeetCode/Solution.swift)
