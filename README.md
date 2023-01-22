@@ -54,6 +54,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Binary Tree Preorder Traversal](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryTreePreorderTraversal/LeetCode/Solution.swift)
 * [Balanced Binary Tree](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BalancedBinaryTree/LeetCode/Solution.swift)
 * [Valid Palindrome](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ValidPalindrome/LeetCode/Solution.swift)
+* [Remove Linked List Elements](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RemoveLinkedListElements/LeetCode/Solution.swift)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/blob/medium/AddTwoNumbers/LeetCode/Solution.swift)
