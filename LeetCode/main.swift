@@ -24,7 +24,7 @@ class MyStack {
     }
 
     func pop() -> Int {
-        queue.dequeue()
+        return queue.dequeue()
     }
     
     func top() -> Int {
@@ -45,7 +45,7 @@ final class Queue {
     }
 
     var isEmpty: Bool {
-        return queue.isEmpty
+        queue.isEmpty
     }
 
     func peek() -> Int {
