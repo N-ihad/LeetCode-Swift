@@ -131,6 +131,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Lexicographically Smallest Equivalent String](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LexicographicallySmallestEquivalentString/LeetCode/Solution.swift)
 * [Insert Interval](https://github.com/N-ihad/LeetCode-Swift/blob/medium/InsertInterval/LeetCode/Solution.swift)
 * [Find Closest Node to Given Two Nodes](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindClosestNodeToGivenTwoNodes/LeetCode/Solution.swift)
+* [Maximum Product Subarray](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumProductSubarray/LeetCode/Solution.swift)
 
 ### Hard
 * [Binary Tree Maximum Path Sum](https://github.com/N-ihad/LeetCode-Swift/blob/hard/BinaryTreeMaximumPathSum/LeetCode/Solution.swift)
