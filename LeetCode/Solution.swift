@@ -19,6 +19,7 @@ class Solution {
         nums
     }
     
+    // lol
     func shuffle() -> [Int] {
         nums.shuffled()
     }
