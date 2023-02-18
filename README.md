@@ -58,6 +58,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Intersection of Two Arrays](https://github.com/N-ihad/LeetCode-Swift/blob/easy/IntersectionOfTwoArrays/LeetCode/Solution.swift)
 * [Contains Duplicate II](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ContainsDuplicateII/LeetCode/Solution.swift)
 * [Implement Stack using Queues](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ImplementStackUsingQueues/LeetCode/main.swift)
+* [Replace Elements with Greatest Element on Right Side](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ReplaceElementsWithGreatestElementOnRightSide/LeetCode/Solution.swift)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/blob/medium/AddTwoNumbers/LeetCode/Solution.swift)
