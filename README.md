@@ -60,6 +60,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Implement Stack using Queues](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ImplementStackUsingQueues/LeetCode/main.swift)
 * [Replace Elements with Greatest Element on Right Side](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ReplaceElementsWithGreatestElementOnRightSide/LeetCode/Solution.swift)
 * [Ransom Note](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RansomNote/LeetCode/Solution.swift)
+* [Sum of Left Leaves](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SumOfLeftLeaves/LeetCode/Solution.swift)
 
 ### Medium
 * [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/blob/medium/AddTwoNumbers/LeetCode/Solution.swift)
