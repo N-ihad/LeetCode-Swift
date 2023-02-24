@@ -138,6 +138,7 @@ Problems are categorized into: easy, medium, hard within branches
 * [Maximum Product Subarray](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumProductSubarray/LeetCode/Solution.swift)
 * [Shuffle an Array](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ShuffleAnArray/LeetCode/Solution.swift)
 * [Two Sum II - Input Array Is Sorted](https://github.com/N-ihad/LeetCode-Swift/blob/medium/TwoSumII-InputArrayIsSorted/LeetCode/Solution.swift)
+* [Find Peak Element](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindPeakElement/LeetCode/Solution.swift)
 
 ### Hard
 * [Binary Tree Maximum Path Sum](https://github.com/N-ihad/LeetCode-Swift/blob/hard/BinaryTreeMaximumPathSum/LeetCode/Solution.swift)
