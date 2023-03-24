@@ -67,7 +67,7 @@ Problems are categorized into: easy, medium, hard within branches
 
 ### Medium
 |Source|Solution|Tests|
-| :---         |     :---:      |          ---: |
+| :---         |     :---:      |          :---: |
 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumSubarray/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumSubarray/LeetCodeTests/SolutionTests.swift)|
 |[Min Stack](https://leetcode.com/problems/min-stack/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinStack/LeetCode/main.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinStack/LeetCode/main.swift)|
 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/AddTwoNumbers/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/AddTwoNumbers/LeetCodeTests/SolutionTests.swift)|
@@ -148,7 +148,7 @@ Problems are categorized into: easy, medium, hard within branches
 
 ### Hard
 |Source|Solution|Tests|
-| :---         |     :---:      |          ---: |
+| :---         |     :---:      |          :---: |
 |[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/BinaryTreeMaximumPathSum/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/BinaryTreeMaximumPathSum/LeetCodeTests/SolutionTests.swift)|
 |[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/EditDistance/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/EditDistance/LeetCodeTests/SolutionTests.swift)|
 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/FirstMissingPositive/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/FirstMissingPositive/LeetCodeTests/SolutionTests.swift)|
