@@ -11,7 +11,7 @@ Problems are categorized into: easy, medium, hard within branches
 ## Problems
 ### Easy
 |Source|Solution|Tests|
-| :---         |     :---:      |          ---: |
+| :---         |     :---:      |          :---: |
 |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BackspaceStringCompare/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BackspaceStringCompare/LeetCodeTests/SolutionTests.swift)|
 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BestTimeToBuyAndSellStock/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BestTimeToBuyAndSellStock/LeetCodeTests/SolutionTests.swift)|
 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryTreeInorderTraversal/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryTreeInorderTraversal/LeetCodeTests/SolutionTests.swift)|
