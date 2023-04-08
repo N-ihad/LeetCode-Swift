@@ -10,7 +10,7 @@ import Foundation
 class Solution {
     func shuffle(_ nums: [Int], _ n: Int) -> [Int] {
         var result: [Int] = []
-        result.reserveCapacity(n)
+        result.reserveCapacity(n*2)
 
         for i in 0..<n {
             result.append(nums[i])
