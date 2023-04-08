@@ -65,6 +65,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ReshapeTheMatrix/LeetCode/Solution.swift)|[&mdash;]()|
 |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ReverseVowelsOfAString/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindWinnerOnATicTacToeGame/LeetCode/Solution.swift)|[&mdash;]()|
+|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/NumberOfGoodPairs/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
