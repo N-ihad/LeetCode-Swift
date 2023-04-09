@@ -67,6 +67,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindWinnerOnATicTacToeGame/LeetCode/Solution.swift)|[&mdash;]()|
 |[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/NumberOfGoodPairs/LeetCode/Solution.swift)|[&mdash;]()|
 |[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ShuffleTheArray/LeetCode/Solution.swift)|[&mdash;]()|
+|[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ShuffleTheArray/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
