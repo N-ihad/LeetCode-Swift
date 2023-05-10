@@ -7,40 +7,45 @@
 
 import Foundation
 
-class Vertex: Hashable {
-
-    var id: Int
-    var adjacentVertices: [Vertex]
-
-    init(_ id: Int, pointsToVertex vertex: Vertex? = nil) {
-        self.id = id
-        adjacentVertices = []
-    }
-
-    static func == (lhs: Vertex, rhs: Vertex) -> Bool {
-        return lhs.id == rhs.id
-    }
-
-    func hash(into hasher: inout Hasher) {
-        hasher.combine(id)
-    }
-}
-
 class Solution {
     func canFinish(_ numCourses: Int, _ prerequisites: [[Int]]) -> Bool {
-        var hashMap: [Vertex: Bool] = [:]
-        let vertices = (0..<numCourses).map { vertex -> Vertex in
-            let vertex = Vertex(vertex)
-            hashMap[vertex] = false
-            return vertex
+        var prereqMap: [Int: Set<Int>] = [:]
+
+        for prereq in prerequisites {
+            prereqMap[prereq[0], default: []].insert(prereq[1])
         }
 
-        for i in 0..<prerequisites.count {
-            vertices[prerequisites[i][0]].adjacentVertices.append(vertices[prerequisites[i][1]])
+        var visited: Set<Int> = []
+        for course in 0..<numCourses {
+            if !canFinish(fromCourse: course, &visited, &prereqMap) {
+                return false
+            }
         }
 
+        return true
+    }
 
+    private func canFinish(fromCourse course: Int, _ visited: inout Set<Int>, _ prereqMap: inout [Int: Set<Int>]) -> Bool {
+        if visited.contains(course) {
+            return false
+        }
 
+        visited.insert(course)
+
+        guard let courses = prereqMap[course] else {
+            visited.remove(course)
+            prereqMap.removeValue(forKey: course)
+            return true
+        }
+
+        for course in courses {
+            if !canFinish(fromCourse: course, &visited, &prereqMap) {
+                return false
+            }
+        }
+
+        visited.remove(course)
+        prereqMap.removeValue(forKey: course)
         return true
     }
 }
