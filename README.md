@@ -150,6 +150,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/TwoSumII-InputArrayIsSorted/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindPeakElement/LeetCode/Solution.swift)|[&mdash;]()|
 |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/EvaluateReversePolishNotation/LeetCode/Solution.swift)|[&mdash;]()|
+|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CourseSchedule/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
