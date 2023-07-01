@@ -151,6 +151,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindPeakElement/LeetCode/Solution.swift)|[&mdash;]()|
 |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/EvaluateReversePolishNotation/LeetCode/Solution.swift)|[&mdash;]()|
 |[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CourseSchedule/LeetCode/Solution.swift)|[&mdash;]()|
+|[Largest Number](https://leetcode.com/problems/largest-number/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LargestNumber/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
