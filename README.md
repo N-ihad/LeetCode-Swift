@@ -152,6 +152,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/EvaluateReversePolishNotation/LeetCode/Solution.swift)|[&mdash;]()|
 |[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CourseSchedule/LeetCode/Solution.swift)|[&mdash;]()|
 |[Largest Number](https://leetcode.com/problems/largest-number/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LargestNumber/LeetCode/Solution.swift)|[&mdash;]()|
+|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindFirstAndLastPositionOfElementInSortedArray/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
