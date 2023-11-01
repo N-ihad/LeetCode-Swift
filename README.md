@@ -154,7 +154,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CourseSchedule/LeetCode/Solution.swift)|[&mdash;]()|
 |[Largest Number](https://leetcode.com/problems/largest-number/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LargestNumber/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindFirstAndLastPositionOfElementInSortedArray/LeetCode/Solution.swift)|[&mdash;]()|
-|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SurroundedRegions)|[&mdash;]()|
+|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SurroundedRegions/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
