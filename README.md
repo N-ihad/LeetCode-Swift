@@ -3,130 +3,176 @@ Some solved LeetCode problems in Swift I thought I'd share if someone needs (amo
 
 ## Contacts
 * LinkedIn: https://www.linkedin.com/in/nihad-samedov/
-* Telegram: @Nihad_s
+* Telegram: @Nihad_s | https://t.me/Nihad_s
 
 ## Branches
 Problems are categorized into: easy, medium, hard within branches
 
 ## Problems
 ### Easy
-* [Backspace String Compare](https://github.com/N-ihad/LeetCode-Swift/tree/easy/BackspaceStringCompare)
-* [Best Time to Buy and Sell Stock](https://github.com/N-ihad/LeetCode-Swift/tree/easy/BestTimeToBuyAndSellStock)
-* [Binary Tree Inorder Traversal](https://github.com/N-ihad/LeetCode-Swift/tree/easy/BinaryTreeInorderTraversal)
-* [Binary Tree Paths](https://github.com/N-ihad/LeetCode-Swift/tree/easy/BinaryTreePaths)
-* [Climbing Stairs](https://github.com/N-ihad/LeetCode-Swift/tree/easy/ClimbingStairs)
-* [Contains Duplicate](https://github.com/N-ihad/LeetCode-Swift/tree/easy/ContainsDuplicate)
-* [Delete Node in a Linked List](https://github.com/N-ihad/LeetCode-Swift/tree/easy/DeleteNodeInALinkedList)
-* [Diameter of Binary Tree](https://github.com/N-ihad/LeetCode-Swift/tree/easy/DiameterOfBinaryTree)
-* [Find Pivot Index](https://github.com/N-ihad/LeetCode-Swift/tree/easy/FindPivotIndex)
-* [First Unique Character in a String](https://github.com/N-ihad/LeetCode-Swift/tree/easy/FirstUniqueCharacterInAString)
-* [Fizz Buzz](https://github.com/N-ihad/LeetCode-Swift/tree/easy/FizzBuzz)
-* [Happy Number](https://github.com/N-ihad/LeetCode-Swift/tree/easy/HappyNumber)
-* [Intersection of Two Arrays II](https://github.com/N-ihad/LeetCode-Swift/tree/easy/IntersectionOfTwoArraysII)
-* [Intersection of Two Linked Lists](https://github.com/N-ihad/LeetCode-Swift/tree/easy/IntersectionOfTwoLinkedLists)
-* [Length of Last Word](https://github.com/N-ihad/LeetCode-Swift/tree/easy/LengthOfLastWord)
-* [Linked List Cycle](https://github.com/N-ihad/LeetCode-Swift/tree/easy/LinkedListCycle)
-* [Majority Element](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MajorityElement)
-* [Maximum Depth of Binary Tree](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MaximumDepthOfBinaryTree)
-* [Maximum Subarray](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MaximumSubarray)
-* [Merge Two Sorted Lists](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MergeTwoSortedLists)
-* [Min Stack](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MinStack)
-* [Minimum Difference Between Highest and Lowest of K Scores](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MinimumDifferenceBetweenHighestAndLowestOfKScores)
-* [Minimum Recolors to Get K Consecutive Black Blocks](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MinimumRecolorsToGetKConsecutiveBlackBlocks)
-* [Missing Number](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MissingNumber)
-* [Move Zeroes](https://github.com/N-ihad/LeetCode-Swift/tree/easy/MoveZeroes)
-* [Pascals Triangle](https://github.com/N-ihad/LeetCode-Swift/tree/easy/PascalsTriangle)
-* [Plus One](https://github.com/N-ihad/LeetCode-Swift/tree/easy/PlusOne)
-* [Remove Duplicates From Sorted Array](https://github.com/N-ihad/LeetCode-Swift/tree/easy/RemoveDuplicatesFromSortedArray)
-* [Remove Element](https://github.com/N-ihad/LeetCode-Swift/tree/easy/RemoveElement)
-* [Reverse Linked List](https://github.com/N-ihad/LeetCode-Swift/tree/easy/ReverseLinkedList)
-* [Roman to Integer](https://github.com/N-ihad/LeetCode-Swift/tree/easy/RomanToInteger)
-* [Same Tree](https://github.com/N-ihad/LeetCode-Swift/tree/easy/SameTree)
-* [Single Number](https://github.com/N-ihad/LeetCode-Swift/tree/easy/SingleNumber)
-* [Symmetric Tree](https://github.com/N-ihad/LeetCode-Swift/tree/easy/SymmetricTree)
-* [Two Sum](https://github.com/N-ihad/LeetCode-Swift/tree/easy/TwoSum)
-* [Valid Anagram](https://github.com/N-ihad/LeetCode-Swift/tree/easy/ValidAnagram)
-* [Valid Parentheses](https://github.com/N-ihad/LeetCode-Swift/tree/easy/ValidParentheses)
-* [Path Sum](https://github.com/N-ihad/LeetCode-Swift/tree/easy/PathSum)
-* [Detect Capital](https://github.com/N-ihad/LeetCode-Swift/tree/easy/DetectCapital)
-* [Delete Columns to Make Sorted](https://github.com/N-ihad/LeetCode-Swift/tree/easy/DeleteColumnsToMakeSorted)
-* [Word Pattern](https://github.com/N-ihad/LeetCode-Swift/tree/easy/WordPattern)
+|Source|Solution|Tests|
+| :---         |     :---:      |          :---: |
+|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BackspaceStringCompare/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BackspaceStringCompare/LeetCodeTests/SolutionTests.swift)|
+|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BestTimeToBuyAndSellStock/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BestTimeToBuyAndSellStock/LeetCodeTests/SolutionTests.swift)|
+|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryTreeInorderTraversal/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryTreeInorderTraversal/LeetCodeTests/SolutionTests.swift)|
+|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryTreePaths/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryTreePaths/LeetCodeTests/SolutionTests.swift)|
+|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ClimbingStairs/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ClimbingStairs/LeetCodeTests/SolutionTests.swift)|
+|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ContainsDuplicate/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ContainsDuplicate/LeetCodeTests/SolutionTests.swift)|
+|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/DeleteNodeInALinkedList/LeetCode/Solution.swift)|[&mdash;]()|
+|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/DiameterOfBinaryTree/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/DiameterOfBinaryTree/LeetCodeTests/SolutionTests.swift)|
+|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindPivotIndex/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindPivotIndex/LeetCodeTests/SolutionTests.swift)|
+|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FirstUniqueCharacterInAString/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FirstUniqueCharacterInAString/LeetCodeTests/SolutionTests.swift)|
+|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FizzBuzz/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FizzBuzz/LeetCodeTests/SolutionTests.swift)|
+|[Happy Number](https://leetcode.com/problems/happy-number/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/HappyNumber/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/HappyNumber/LeetCodeTests/SolutionTests.swift)|
+|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/IntersectionOfTwoArraysII/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/IntersectionOfTwoArraysII/LeetCodeTests/SolutionTests.swift)|
+|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/IntersectionOfTwoLinkedLists/LeetCode/Solution.swift)|[&mdash;]()|
+|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Swift, C++](https://github.com/N-ihad/LeetCode-Swift/blob/easy/LengthOfLastWord/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/LengthOfLastWord/LeetCodeTests/SolutionTests.swift)|
+|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/LinkedListCycle/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/LinkedListCycle/LeetCodeTests/SolutionTests.swift)|
+|[Majority Element](https://leetcode.com/problems/majority-element/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MajorityElement/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MajorityElement/LeetCodeTests/SolutionTests.swift)|
+|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumDepthOfBinaryTree/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumDepthOfBinaryTree/LeetCodeTests/SolutionTests.swift)|
+|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MergeTwoSortedLists/LeetCode/main.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MergeTwoSortedLists/LeetCode/main.swift)|
+|[Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinimumDifferenceBetweenHighestAndLowestOfKScores/LeetCode/Solution.swift)|[&mdash;]()|
+|[Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinimumRecolorsToGetKConsecutiveBlackBlocks/LeetCode/Solution.swift)|[&mdash;]()|
+|[Missing Number](https://leetcode.com/problems/missing-number/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MissingNumber/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MissingNumber/LeetCodeTests/SolutionTests.swift)|
+|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MoveZeroes/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MoveZeroes/LeetCodeTests/SolutionTests.swift)|
+|[Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/PascalsTriangle/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/PascalsTriangle/LeetCodeTests/SolutionTests.swift)|
+|[Plus One](https://leetcode.com/problems/plus-one/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/PlusOne/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/PlusOne/LeetCodeTests/SolutionTests.swift)|
+|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RemoveDuplicatesFromSortedArray/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RemoveDuplicatesFromSortedArray/LeetCodeTests/SolutionTests.swift)|
+|[Remove Element](https://leetcode.com/problems/remove-element/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RemoveElement/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RemoveElement/LeetCodeTests/SolutionTests.swift)|
+|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ReverseLinkedList/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ReverseLinkedList/LeetCodeTests/SolutionTests.swift)|
+|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RomanToInteger/LeetCode/main.swift)|[&mdash;]()|
+|[Same Tree](https://leetcode.com/problems/same-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SameTree/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SameTree/LeetCodeTests/SolutionTests.swift)|
+|[Single Number](https://leetcode.com/problems/single-number/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SingleNumber/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SingleNumber/LeetCodeTests/SolutionTests.swift)|
+|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SymmetricTree/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SymmetricTree/LeetCodeTests/SolutionTests.swift)|
+|[Two Sum](https://leetcode.com/problems/two-sum/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/TwoSum/LeetCode/main.swift)|[&mdash;]()|
+|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ValidAnagram/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ValidAnagram/LeetCodeTests/SolutionTests.swift)|
+|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Swift, C++](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ValidParentheses/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ValidParentheses/LeetCodeTests/SolutionTests.swift)|
+|[Path Sum](https://leetcode.com/problems/path-sum/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/PathSum/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/PathSum/LeetCodeTests/SolutionTests.swift)|
+|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/DetectCapital/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/DetectCapital/LeetCodeTests/SolutionTests.swift)|
+|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/DeleteColumnsToMakeSorted/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/DeleteColumnsToMakeSorted/LeetCodeTests/SolutionTests.swift)|
+|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/WordPattern/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/WordPattern/LeetCodeTests/SolutionTests.swift)|
+|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryTreePreorderTraversal/LeetCode/Solution.swift)|[&mdash;]()|
+|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BalancedBinaryTree/LeetCode/Solution.swift)|[&mdash;]()|
+|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ValidPalindrome/LeetCode/Solution.swift)|[&mdash;]()|
+|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RemoveLinkedListElements/LeetCode/Solution.swift)|[&mdash;]()|
+|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/IntersectionOfTwoArrays/LeetCode/Solution.swift)|[&mdash;]()|
+|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ContainsDuplicateII/LeetCode/Solution.swift)|[&mdash;]()|
+|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ImplementStackUsingQueues/LeetCode/main.swift)|[&mdash;]()|
+|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ReplaceElementsWithGreatestElementOnRightSide/LeetCode/Solution.swift)|[&mdash;]()|
+|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RansomNote/LeetCode/Solution.swift)|[&mdash;]()|
+|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SumOfLeftLeaves/LeetCode/Solution.swift)|[&mdash;]()|
+|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/IsSubsequence/LeetCode/Solution.swift)|[&mdash;]()|
+|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ReshapeTheMatrix/LeetCode/Solution.swift)|[&mdash;]()|
+|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ReverseVowelsOfAString/LeetCode/Solution.swift)|[&mdash;]()|
+|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindWinnerOnATicTacToeGame/LeetCode/Solution.swift)|[&mdash;]()|
+|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/NumberOfGoodPairs/LeetCode/Solution.swift)|[&mdash;]()|
+|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ShuffleTheArray/LeetCode/Solution.swift)|[&mdash;]()|
+|[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/LeftAndRightSumDifferences/LeetCode/Solution.swift)|[&mdash;]()|
+|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ConvertSortedArrayToBinarySearchTree/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
-* [Add Two Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AddTwoNumbers)
-* [Airplane Seat Assignment Probability](https://github.com/N-ihad/LeetCode-Swift/tree/medium/AirplaneSeatAssignmentProbability)
-* [Binary Tree Level Order Traversal II](https://github.com/N-ihad/LeetCode-Swift/tree/medium/BinaryTreeLevelOrderTraversalII)
-* [Binary Tree Level Order Traversal](https://github.com/N-ihad/LeetCode-Swift/tree/medium/BinaryTreeLevelOrderTraversal)
-* [Binary Tree Zigzag Level Order Traversal](https://github.com/N-ihad/LeetCode-Swift/tree/medium/BinaryTreeZigzagLevelOrderTraversal)
-* [Combination Sum 2](https://github.com/N-ihad/LeetCode-Swift/tree/medium/CombinationSum2)
-* [Combination Sum](https://github.com/N-ihad/LeetCode-Swift/tree/medium/CombinationSum)
-* [Combinations](https://github.com/N-ihad/LeetCode-Swift/tree/medium/Combinations)
-* [Container With Most Water](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ContainerWithMostWater)
-* [Copy List With Random Pointer](https://github.com/N-ihad/LeetCode-Swift/tree/medium/CopyListWithRandomPointer)
-* [Course Schedule](https://github.com/N-ihad/LeetCode-Swift/tree/medium/CourseSchedule)
-* [Design Add and Search Words Data Structure](https://github.com/N-ihad/LeetCode-Swift/tree/medium/DesignAddAndSearchWordsDataStructure)
-* [Find Bottom Left Tree Value](https://github.com/N-ihad/LeetCode-Swift/tree/medium/FindBottomLeftTreeValue)
-* [Find the Duplicate Number](https://github.com/N-ihad/LeetCode-Swift/tree/medium/FindTheDuplicateNumber)
-* [Flatten Binary Tree to Linked List](https://github.com/N-ihad/LeetCode-Swift/tree/medium/FlattenBinaryTreeToLinkedList)
-* [Game of Life](https://github.com/N-ihad/LeetCode-Swift/tree/medium/GameOfLife)
-* [Generate Parentheses](https://github.com/N-ihad/LeetCode-Swift/tree/medium/GenerateParentheses)
-* [Group Anagrams](https://github.com/N-ihad/LeetCode-Swift/tree/medium/GroupAnagrams)
-* [House Robber](https://github.com/N-ihad/LeetCode-Swift/tree/medium/HouseRobber)
-* [Insert Delete Get Random O(1)](https://github.com/N-ihad/LeetCode-Swift/tree/medium/InsertDeleteGetRandomO(1))
-* [Integer to Roman](https://github.com/N-ihad/LeetCode-Swift/tree/medium/IntegerToRoman)
-* [Jump Game](https://github.com/N-ihad/LeetCode-Swift/tree/medium/JumpGame)
-* [Kth Largest Element in an Array](https://github.com/N-ihad/LeetCode-Swift/tree/medium/KthLargestElementInAnArray)
-* [Kth Smallest Element in a BST](https://github.com/N-ihad/LeetCode-Swift/tree/medium/KthSmallestElementInABST)
-* [LRU Cache](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LRUCache)
-* [Letter Combinations of a Phone Number](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LetterCombinationsOfAPhoneNumber)
-* [Longest Consecutive Sequence](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestConsecutiveSequence)
-* [Longest Increasing Subsequence](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestIncreasingSubsequence)
-* [Longest Palindromic Substring](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestPalindromicSubstring)
-* [Longest Substring Without Repeating Characters](https://github.com/N-ihad/LeetCode-Swift/tree/medium/LongestSubstringWithoutRepeatingCharacters)
-* [Merge Intervals](https://github.com/N-ihad/LeetCode-Swift/tree/medium/MergeIntervals)
-* [Minimum Path Sum](https://github.com/N-ihad/LeetCode-Swift/tree/medium/MinimumPathSum)
-* [My Calendar I](https://github.com/N-ihad/LeetCode-Swift/tree/medium/MyCalendarI)
-* [Number of Islands](https://github.com/N-ihad/LeetCode-Swift/tree/medium/NumberOfIslands)
-* [Odd Even Linked List](https://github.com/N-ihad/LeetCode-Swift/tree/medium/OddEvenLinkedList)
-* [Palindrome Partitioning](https://github.com/N-ihad/LeetCode-Swift/tree/medium/PalindromePartitioning)
-* [Permutations](https://github.com/N-ihad/LeetCode-Swift/tree/medium/Permutations)
-* [Product of Array Except Self](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ProductOfArrayExceptSelf)
-* [Push Dominoes](https://github.com/N-ihad/LeetCode-Swift/tree/medium/PushDominoes)
-* [Remove Nth Node from End of List](https://github.com/N-ihad/LeetCode-Swift/tree/medium/RemoveNthNodeFromEndOfList)
-* [Reverse Integer](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ReverseInteger)
-* [Reverse Words in a String](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ReverseWordsInAString)
-* [Rotate Array](https://github.com/N-ihad/LeetCode-Swift/tree/medium/RotateArray)
-* [Rotate Image](https://github.com/N-ihad/LeetCode-Swift/tree/medium/RotateImage)
-* [Rotate List](https://github.com/N-ihad/LeetCode-Swift/tree/medium/RotateList)
-* [Search a 2D Matrix II](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SearchA2DMatrixII)
-* [Set Matrix Zeroes](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SetMatrixZeroes)
-* [Sort Colors](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SortColors)
-* [Sort the Matrix Diagonally](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SortTheMatrixDiagonally)
-* [Subsets](https://github.com/N-ihad/LeetCode-Swift/tree/medium/Subsets)
-* [Top K Frequent Elements](https://github.com/N-ihad/LeetCode-Swift/tree/medium/TopKFrequentElements)
-* [Unique Binary Search Trees](https://github.com/N-ihad/LeetCode-Swift/tree/medium/UniqueBinarySearchTrees)
-* [Unique Paths](https://github.com/N-ihad/LeetCode-Swift/tree/medium/UniquePaths)
-* [Valid Sudoku](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ValidSudoku)
-* [Validate Binary Search Tree](https://github.com/N-ihad/LeetCode-Swift/tree/medium/ValidateBinarySearchTree)
-* [Word Break](https://github.com/N-ihad/LeetCode-Swift/tree/medium/WordBreak)
-* [Word Search](https://github.com/N-ihad/LeetCode-Swift/tree/medium/WordSearch)
-* [Path Sum II](https://github.com/N-ihad/LeetCode-Swift/tree/medium/PathSumII)
-* [Sum Root to Leaf Numbers](https://github.com/N-ihad/LeetCode-Swift/tree/medium/SumRootToLeafNumbers)
-* [Minimum Rounds to Complete All Tasks](https://github.com/N-ihad/LeetCode-Swift/tree/medium/MinimumRoundsToCompleteAllTasks)
+|Source|Solution|Tests|
+| :---         |     :---:      |          :---: |
+|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumSubarray/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumSubarray/LeetCodeTests/SolutionTests.swift)|
+|[Min Stack](https://leetcode.com/problems/min-stack/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinStack/LeetCode/main.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinStack/LeetCode/main.swift)|
+|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/AddTwoNumbers/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/AddTwoNumbers/LeetCodeTests/SolutionTests.swift)|
+|[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/AirplaneSeatAssignmentProbability/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/AirplaneSeatAssignmentProbability/LeetCodeTests/SolutionTests.swift)|
+|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BinaryTreeLevelOrderTraversalII/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BinaryTreeLevelOrderTraversalII/LeetCodeTests/SolutionTests.swift)|
+|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BinaryTreeLevelOrderTraversal/LeetCode/Solution.swift)|[&mdash;]()|
+|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BinaryTreeZigzagLevelOrderTraversal/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BinaryTreeZigzagLevelOrderTraversal/LeetCodeTests/SolutionTests.swift)|
+|[Combination Sum 2](https://leetcode.com/problems/combination-sum-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CombinationSum2/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CombinationSum2/LeetCodeTests/SolutionTests.swift)|
+|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CombinationSum/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CombinationSum/LeetCodeTests/SolutionTests.swift)|
+|[Combinations](https://leetcode.com/problems/combinations/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/Combinations/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/Combinations/LeetCodeTests/SolutionTests.swift)|
+|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ContainerWithMostWater/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ContainerWithMostWater/LeetCodeTests/SolutionTests.swift)|
+|[Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CopyListWithRandomPointer/LeetCode/Solution.swift)|[&mdash;]()|
+|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CourseSchedule/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CourseSchedule/LeetCodeTests/SolutionTests.swift)|
+|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DesignAddAndSearchWordsDataStructure/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DesignAddAndSearchWordsDataStructure/LeetCodeTests/SolutionTests.swift)|
+|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindBottomLeftTreeValue/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindBottomLeftTreeValue/LeetCodeTests/SolutionTests.swift)|
+|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindTheDuplicateNumber/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindTheDuplicateNumber/LeetCodeTests/SolutionTests.swift)|
+|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FlattenBinaryTreeToLinkedList/LeetCode/Solution.swift)|[&mdash;]()|
+|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/GameOfLife/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/GameOfLife/LeetCodeTests/SolutionTests.swift)|
+|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/GenerateParentheses/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/GenerateParentheses/LeetCodeTests/SolutionTests.swift)|
+|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/GroupAnagrams/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/GroupAnagrams/LeetCodeTests/SolutionTests.swift)|
+|[House Robber](https://leetcode.com/problems/house-robber/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/HouseRobber/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/HouseRobber/LeetCodeTests/SolutionTests.swift)|
+|[Insert Delete Get Random O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/InsertDeleteGetRandomO(1)/LeetCode/main.swift)|[&mdash;]()|
+|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/IntegerToRoman/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/IntegerToRoman/LeetCodeTests/SolutionTests.swift)|
+|[Jump Game](https://leetcode.com/problems/jump-game/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/JumpGame/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/JumpGame/LeetCodeTests/SolutionTests.swift)|
+|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/KthLargestElementInAnArray/LeetCode/Solution.swift)|[&mdash;]()|
+|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/KthSmallestElementInABST/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/KthSmallestElementInABST/LeetCodeTests/SolutionTests.swift)|
+|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LRUCache/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LRUCache/LeetCodeTests/SolutionTests.swift)|
+|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LetterCombinationsOfAPhoneNumber/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LetterCombinationsOfAPhoneNumber/LeetCodeTests/SolutionTests.swift)|
+|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LongestConsecutiveSequence/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LongestConsecutiveSequence/LeetCodeTests/SolutionTests.swift)|
+|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LongestIncreasingSubsequence/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LongestIncreasingSubsequence/LeetCodeTests/SolutionTests.swift)|
+|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Swift, C++](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LongestPalindromicSubstring/LeetCode/main.swift)|[&mdash;]()|
+|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LongestSubstringWithoutRepeatingCharacters/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LongestSubstringWithoutRepeatingCharacters/LeetCodeTests/SolutionTests.swift)|
+|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MergeIntervals/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MergeIntervals/LeetCodeTests/SolutionTests.swift)|
+|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumPathSum/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumPathSum/LeetCodeTests/SolutionTests.swift)|
+|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MyCalendarI/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MyCalendarI/LeetCodeTests/SolutionTests.swift)|
+|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/NumberOfIslands/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/NumberOfIslands/LeetCodeTests/SolutionTests.swift)|
+|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/OddEvenLinkedList/LeetCode/Solution.swift)|[&mdash;]()|
+|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/PalindromePartitioning/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/PalindromePartitioning/LeetCodeTests/SolutionTests.swift)|
+|[Permutations](https://leetcode.com/problems/permutations/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/Permutations/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/Permutations/LeetCodeTests/SolutionTests.swift)|
+|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ProductOfArrayExceptSelf/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ProductOfArrayExceptSelf/LeetCodeTests/SolutionTests.swift)|
+|[Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/PushDominoes/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/PushDominoes/LeetCodeTests/SolutionTests.swift)|
+|[Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RemoveNthNodeFromEndOfList/LeetCode/Solution.swift)|[&mdash;]()|
+|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ReverseInteger/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ReverseInteger/LeetCodeTests/SolutionTests.swift)|
+|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ReverseWordsInAString/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ReverseWordsInAString/LeetCodeTests/SolutionTests.swift)|
+|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RotateArray/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RotateArray/LeetCodeTests/SolutionTests.swift)|
+|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RotateImage/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RotateImage/LeetCodeTests/SolutionTests.swift)|
+|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RotateList/LeetCode/Solution.swift)|[&mdash;]()|
+|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SearchA2DMatrixII/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SearchA2DMatrixII/LeetCodeTests/SolutionTests.swift)|
+|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SetMatrixZeroes/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SetMatrixZeroes/LeetCodeTests/SolutionTests.swift)|
+|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SortColors/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SortColors/LeetCodeTests/SolutionTests.swift)|
+|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SortTheMatrixDiagonally/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SortTheMatrixDiagonally/LeetCodeTests/SolutionTests.swift)|
+|[Subsets](https://leetcode.com/problems/subsets/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/Subsets/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/Subsets/LeetCodeTests/SolutionTests.swift)|
+|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/TopKFrequentElements/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/TopKFrequentElements/LeetCodeTests/SolutionTests.swift)|
+|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/UniqueBinarySearchTrees/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/UniqueBinarySearchTrees/LeetCodeTests/SolutionTests.swift)|
+|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/UniquePaths/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/UniquePaths/LeetCodeTests/SolutionTests.swift)|
+|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ValidSudoku/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ValidSudoku/LeetCodeTests/SolutionTests.swift)|
+|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ValidateBinarySearchTree/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ValidateBinarySearchTree/LeetCodeTests/SolutionTests.swift)|
+|[Word Break](https://leetcode.com/problems/word-break/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WordBreak/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WordBreak/LeetCodeTests/SolutionTests.swift)|
+|[Word Search](https://leetcode.com/problems/word-search/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WordSearch/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WordSearch/LeetCodeTests/SolutionTests.swift)|
+|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/PathSumII/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/PathSumII/LeetCodeTests/SolutionTests.swift)|
+|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SumRootToLeafNumbers/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SumRootToLeafNumbers/LeetCodeTests/SolutionTests.swift)|
+|[Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumRoundsToCompleteAllTasks/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumRoundsToCompleteAllTasks/LeetCodeTests/SolutionTests.swift)|
+|[Gas Station](https://leetcode.com/problems/gas-station/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/GasStation/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/GasStation/LeetCodeTests/SolutionTests.swift)|
+|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumNumberOfArrowsToBurstBalloons/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumNumberOfArrowsToBurstBalloons/LeetCodeTests/SolutionTests.swift)|
+|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumIceCreamBars/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumIceCreamBars/LeetCodeTests/SolutionTests.swift)|
+|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ZigzagConversion/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ZigzagConversion/LeetCodeTests/SolutionTests.swift)|
+|[Sort List](https://leetcode.com/problems/sort-list/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SortList/LeetCode/Solution.swift)|[&mdash;]()|
+|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumTimeToCollectAllApplesInATree/LeetCode/Solution.swift)|[&mdash;]()|
+|[Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/NumberOfNodesInTheSub-TreeWithTheSameLabel/LeetCode/Solution.swift)|[&mdash;]()|
+|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SwapNodesInPairs/LeetCode/Solution.swift)|[&mdash;]()|
+|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LexicographicallySmallestEquivalentString/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LexicographicallySmallestEquivalentString/LeetCodeTests/SolutionTests.swift)|
+|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/InsertInterval/LeetCode/Solution.swift)|[&mdash;]()|
+|[Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindClosestNodeToGivenTwoNodes/LeetCode/Solution.swift)|[&mdash;]()|
+|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumProductSubarray/LeetCode/Solution.swift)|[&mdash;]()|
+|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ShuffleAnArray/LeetCode/Solution.swift)|[&mdash;]()|
+|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/TwoSumII-InputArrayIsSorted/LeetCode/Solution.swift)|[&mdash;]()|
+|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindPeakElement/LeetCode/Solution.swift)|[&mdash;]()|
+|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/EvaluateReversePolishNotation/LeetCode/Solution.swift)|[&mdash;]()|
+|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CourseSchedule/LeetCode/Solution.swift)|[&mdash;]()|
+|[Largest Number](https://leetcode.com/problems/largest-number/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LargestNumber/LeetCode/Solution.swift)|[&mdash;]()|
+|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindFirstAndLastPositionOfElementInSortedArray/LeetCode/Solution.swift)|[&mdash;]()|
+|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SurroundedRegions/LeetCode/Solution.swift)|[&mdash;]()|
+|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CourseScheduleII/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
-* [Binary Tree Maximum Path Sum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/BinaryTreeMaximumPathSum)
-* [Edit Distance](https://github.com/N-ihad/LeetCode-Swift/tree/hard/EditDistance)
-* [First Missing Positive](https://github.com/N-ihad/LeetCode-Swift/tree/hard/FirstMissingPositive)
-* [Longest Increasing Path in a Matrix](https://github.com/N-ihad/LeetCode-Swift/tree/hard/LongestIncreasingPathInAMatrix)
-* [Max Points on a Line](https://github.com/N-ihad/LeetCode-Swift/tree/hard/MaxPointsOnALine)
-* [Median of Two Sorted Arrays](https://github.com/N-ihad/LeetCode-Swift/tree/hard/MedianOfTwoSortedArrays)
-* [Merge k Sorted Lists](https://github.com/N-ihad/LeetCode-Swift/tree/hard/Merge-k-SortedLists)
-* [N-Queens2](https://github.com/N-ihad/LeetCode-Swift/tree/hard/N-Queens2)
-* [N-Queens](https://github.com/N-ihad/LeetCode-Swift/tree/hard/N-Queens)
-* [Serialize and Deserialize Binary Tree](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SerializeAndDeserializeBinaryTree)
-* [Sliding Window Maximum](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SlidingWindowMaximum)
-* [Sudoku Solver](https://github.com/N-ihad/LeetCode-Swift/tree/hard/SudokuSolver)
-* [Trapping Rain Water](https://github.com/N-ihad/LeetCode-Swift/tree/hard/TrappingRainWater)
-* [Wildcard Matching](https://github.com/N-ihad/LeetCode-Swift/tree/hard/WildcardMatching)
-* [Word Break II](https://github.com/N-ihad/LeetCode-Swift/tree/hard/WordBreakII)
+|Source|Solution|Tests|
+| :---         |     :---:      |          :---: |
+|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/BinaryTreeMaximumPathSum/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/BinaryTreeMaximumPathSum/LeetCodeTests/SolutionTests.swift)|
+|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/EditDistance/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/EditDistance/LeetCodeTests/SolutionTests.swift)|
+|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/FirstMissingPositive/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/FirstMissingPositive/LeetCodeTests/SolutionTests.swift)|
+|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/LongestIncreasingPathInAMatrix/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/LongestIncreasingPathInAMatrix/LeetCodeTests/SolutionTests.swift)|
+|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/MaxPointsOnALine/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/MaxPointsOnALine/LeetCodeTests/SolutionTests.swift)|
+|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/MedianOfTwoSortedArrays/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/MedianOfTwoSortedArrays/LeetCodeTests/SolutionTests.swift)|
+|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/Merge-k-SortedLists/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/Merge-k-SortedLists/LeetCodeTests/SolutionTests.swift)|
+|[N-Queens2](https://leetcode.com/problems/n-queens-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/N-Queens2/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/N-Queens2/LeetCodeTests/SolutionTests.swift)|
+|[N-Queens](https://leetcode.com/problems/n-queens/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/N-Queens/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/N-Queens/LeetCodeTests/SolutionTests.swift)|
+|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/SerializeAndDeserializeBinaryTree/LeetCode/main.swift)|[&mdash;]()|
+|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/SlidingWindowMaximum/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/SlidingWindowMaximum/LeetCodeTests/SolutionTests.swift)|
+|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/SudokuSolver/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/SudokuSolver/LeetCodeTests/SolutionTests.swift)|
+|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/TrappingRainWater/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/TrappingRainWater/LeetCodeTests/SolutionTests.swift)|
+|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/WildcardMatching/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/WildcardMatching/LeetCodeTests/SolutionTests.swift)|
+|[Work Break II](https://leetcode.com/problems/word-break-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/WordBreakII/LeetCode/Solution.swift)|[Tests](https://github.com/N-ihad/LeetCode-Swift/blob/hard/WordBreakII/LeetCodeTests/SolutionTests.swift)|
+|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/hard/ReverseNodesIn-k-Group/LeetCode/Solution.swift)|[&mdash;]()|
