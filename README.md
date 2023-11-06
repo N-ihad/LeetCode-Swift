@@ -157,6 +157,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SurroundedRegions/LeetCode/Solution.swift)|[&mdash;]()|
 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CourseScheduleII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CloneGraph/LeetCode/Solution.swift)|[&mdash;]()|
+|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BinaryTreeRightSideView/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
