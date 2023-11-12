@@ -159,6 +159,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CloneGraph/LeetCode/Solution.swift)|[&mdash;]()|
 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BinaryTreeRightSideView/LeetCode/Solution.swift)|[&mdash;]()|
 |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/PopulatingNextRightPointersInEachNode/LeetCode/Solution.swift)|[&mdash;]()|
+|[Coin Change](https://leetcode.com/problems/coin-change/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CoinChange/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
