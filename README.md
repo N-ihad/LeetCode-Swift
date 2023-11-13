@@ -160,6 +160,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BinaryTreeRightSideView/LeetCode/Solution.swift)|[&mdash;]()|
 |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/PopulatingNextRightPointersInEachNode/LeetCode/Solution.swift)|[&mdash;]()|
 |[Coin Change](https://leetcode.com/problems/coin-change/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CoinChange/LeetCode/Solution.swift)|[&mdash;]()|
+|[Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/EliminateMaximumNumberOfMonsters/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
