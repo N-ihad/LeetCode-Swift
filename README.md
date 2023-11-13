@@ -69,6 +69,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ShuffleTheArray/LeetCode/Solution.swift)|[&mdash;]()|
 |[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/LeftAndRightSumDifferences/LeetCode/Solution.swift)|[&mdash;]()|
 |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ConvertSortedArrayToBinarySearchTree/LeetCode/Solution.swift)|[&mdash;]()|
+|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/PerfectSquares/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
