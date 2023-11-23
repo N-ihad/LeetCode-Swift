@@ -164,6 +164,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/EliminateMaximumNumberOfMonsters/LeetCode/Solution.swift)|[&mdash;]()|
 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/PerfectSquares/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumHeightTrees/LeetCode/Solution.swift)|[&mdash;]()|
+|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BasicCalculatorII/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
