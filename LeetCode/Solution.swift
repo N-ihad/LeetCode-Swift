@@ -30,16 +30,17 @@ class ListNode {
 class Solution {
     // MARK: - Iterative
     func reverseList(_ head: ListNode?) -> ListNode? {
-        var prevHead: ListNode? = nil
-        var currentHead = head
-        while currentHead?.next != nil {
-            let nextHead = currentHead?.next
-            currentHead?.next = prevHead
-            prevHead = currentHead
-            currentHead = nextHead
+        var prev: ListNode? = nil
+
+        var head = head
+        while head != nil {
+            let next = head?.next
+            head?.next = prev
+            prev = head
+            head = next
         }
-        currentHead?.next = prevHead
-        return currentHead
+
+        return prev
     }
 
     // MARK: - Recursive
