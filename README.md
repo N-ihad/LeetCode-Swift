@@ -165,6 +165,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/PerfectSquares/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumHeightTrees/LeetCode/Solution.swift)|[&mdash;]()|
 |[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BasicCalculatorII/LeetCode/Solution.swift)|[&mdash;]()|
+|[Triangle](https://leetcode.com/problems/triangle/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/Triangle/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
