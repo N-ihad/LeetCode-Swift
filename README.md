@@ -71,6 +71,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ConvertSortedArrayToBinarySearchTree/LeetCode/Solution.swift)|[&mdash;]()|
 |[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/N-aryTreePreorderTraversal/LeetCode/Solution.swift)|[&mdash;]()|
 |[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CheckIfTwoStringArraysAreEquivalent/LeetCode/Solution.swift)|[&mdash;]()|
+|[ Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/Largest3SameDigitNumberInString/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
