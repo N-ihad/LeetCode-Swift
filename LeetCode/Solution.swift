@@ -36,3 +36,40 @@ class Solution {
         return result
     }
 }
+
+/*
+// MARK: - Second solution with little optimization
+class Solution {
+    func largestGoodInteger(_ num: String) -> String {
+        var result: String = ""
+        var temp: String = ""
+
+        for char in num {
+            if temp.count == 3 {
+
+                if temp.first == "9" {
+                    return "999"
+                }
+
+                if result.isEmpty || Int(temp)! > Int(result)! {
+                    result = temp
+                }
+
+                temp = ""
+            }
+
+            if char == temp.first {
+                temp += String(char)
+            } else {
+                temp = String(char)
+            }
+        }
+
+        if temp.count == 3 && (result.isEmpty || Int(temp)! > Int(result)!) {
+            result = temp
+        }
+
+        return result
+    }
+}
+*/
