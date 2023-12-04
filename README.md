@@ -70,6 +70,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/LeftAndRightSumDifferences/LeetCode/Solution.swift)|[&mdash;]()|
 |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ConvertSortedArrayToBinarySearchTree/LeetCode/Solution.swift)|[&mdash;]()|
 |[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/N-aryTreePreorderTraversal/LeetCode/Solution.swift)|[&mdash;]()|
+|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CheckIfTwoStringArraysAreEquivalent/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
