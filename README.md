@@ -172,6 +172,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BasicCalculatorII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Triangle](https://leetcode.com/problems/triangle/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/Triangle/LeetCode/Solution.swift)|[&mdash;]()|
 |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ImplementTriePrefixTree/LeetCode/Solution.swift)|[&mdash;]()|
+|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BestTimeToBuyAndSellStockII/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
