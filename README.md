@@ -74,7 +74,8 @@ Problems are categorized into: easy, medium, hard within branches
 |[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/Largest3SameDigitNumberInString/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountOfMatchesInTournament/LeetCode/Solution.swift)|[&mdash;]()|
 |[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CalculateMoneyInLeetcodeBank/LeetCode/Solution.swift)|[&mdash;]()|
-|[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/LargestOddNumberInString/LeetCode/Solution.swift)|[&mdash;]()|
+|[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/LargestOddNumberInString/LeetCode/Solution.swift)|[&mdash;]()|
+|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ConstructStringFromBinaryTree/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
