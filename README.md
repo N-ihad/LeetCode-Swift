@@ -76,6 +76,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CalculateMoneyInLeetcodeBank/LeetCode/Solution.swift)|[&mdash;]()|
 |[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/LargestOddNumberInString/LeetCode/Solution.swift)|[&mdash;]()|
 |[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ConstructStringFromBinaryTree/LeetCode/Solution.swift)|[&mdash;]()|
+|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/TransposeMatrix/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
