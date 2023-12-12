@@ -77,6 +77,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/LargestOddNumberInString/LeetCode/Solution.swift)|[&mdash;]()|
 |[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ConstructStringFromBinaryTree/LeetCode/Solution.swift)|[&mdash;]()|
 |[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/TransposeMatrix/LeetCode/Solution.swift)|[&mdash;]()|
+|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ElementAppearingMoreThan25%25InSortedArray/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
