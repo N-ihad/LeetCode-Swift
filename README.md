@@ -78,6 +78,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ConstructStringFromBinaryTree/LeetCode/Solution.swift)|[&mdash;]()|
 |[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/TransposeMatrix/LeetCode/Solution.swift)|[&mdash;]()|
 |[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ElementAppearingMoreThan25%25InSortedArray/LeetCode/Solution.swift)|[&mdash;]()|
+|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumProductOfTwoElementsInAnArray/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
