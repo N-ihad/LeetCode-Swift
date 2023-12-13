@@ -8,6 +8,8 @@
 import Foundation
 
 /*
+    https://leetcode.com/problems/special-positions-in-a-binary-matrix/solutions/4401333/swift-solution-with-explanation/
+
     Iterate through the matrix keeping track of 1s count in each row and column
     in variables rowOnesCount and columnOnesCount. 
     Once this done and we have count of 1s for each row and for each column, 
