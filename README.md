@@ -80,6 +80,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ElementAppearingMoreThan25%25InSortedArray/LeetCode/Solution.swift)|[&mdash;]()|
 |[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumProductOfTwoElementsInAnArray/LeetCode/Solution.swift)|[&mdash;]()|
 |[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SpecialPositionsInABinaryMatrix/LeetCode/Solution.swift)|[&mdash;]()|
+|[Destination City](https://leetcode.com/problems/destination-city/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/DestinationCity/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
