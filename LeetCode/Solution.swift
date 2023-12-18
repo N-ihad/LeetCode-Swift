@@ -7,6 +7,13 @@
 
 import Foundation
 
+/*
+    https://leetcode.com/problems/maximum-product-difference-between-two-pairs/solutions/4420402/swift-solution/
+    
+    Iterate through an array keeping track of 2 mins and 2 maxs, since this will give us the most difference.
+    At the end just return product of max1 * max2 - min1 * min2.
+*/
+
 class Solution {
     func maxProductDifference(_ nums: [Int]) -> Int {
         var (min1, min2, max1, max2) = (Int.max, Int.max, Int.min, Int.min)
