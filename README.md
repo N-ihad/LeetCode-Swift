@@ -181,6 +181,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ImplementTriePrefixTree/LeetCode/Solution.swift)|[&mdash;]()|
 |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BestTimeToBuyAndSellStockII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DifferenceBetweenOnesAndZerosInRowAndColumn/LeetCode/Solution.swift)|[&mdash;]()|
+|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LowestCommonAncestorOfABinaryTree/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
