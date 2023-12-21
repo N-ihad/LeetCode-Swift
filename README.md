@@ -187,6 +187,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DifferenceBetweenOnesAndZerosInRowAndColumn/LeetCode/Solution.swift)|[&mdash;]()|
 |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LowestCommonAncestorOfABinaryTree/LeetCode/Solution.swift)|[&mdash;]()|
 |[Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DesignAFoodRatingSystem/LeetCode/Solution.swift)|[&mdash;]()|
+|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WidestVerticalAreaBetweenTwoPointsContainingNoPoints/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
