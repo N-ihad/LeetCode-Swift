@@ -86,6 +86,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/PascalsTriangleII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ImageSmoother/LeetCode/Solution.swift)|[&mdash;]()|
 |[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BuyTwoChocolates/LeetCode/Solution.swift)|[&mdash;]()|
+|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumScoreAfterSplittingAString/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
