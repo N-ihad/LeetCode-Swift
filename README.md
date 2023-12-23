@@ -87,6 +87,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ImageSmoother/LeetCode/Solution.swift)|[&mdash;]()|
 |[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BuyTwoChocolates/LeetCode/Solution.swift)|[&mdash;]()|
 |[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumScoreAfterSplittingAString/LeetCode/Solution.swift)|[&mdash;]()|
+|[Path Crossing](https://leetcode.com/problems/path-crossing/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/PathCrossing/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
