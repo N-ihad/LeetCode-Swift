@@ -54,3 +54,37 @@ class Solution {
         return minimum
     }
 }
+
+/*
+    https://leetcode.com/problems/minimum-falling-path-sum/solutions/4592196/swift-solution-iterative-space-optimized/
+
+    Start from the rows.count-1 and compute for each cell its below left, mid and right, 
+    then take minimum of these 3 values and save it into temporary row temp, so as to
+    have original row not modified, after we done calculating minimums for the row, we save 
+    temp row into row and work our way up the same manner. We only need 1 array to keep track
+    of previous values. We could've avoided even that 1 array as additional memory if we could
+    modify the original matrix, then we would just write matrix[matrix.count - 1 - i][j] += min(left, mid, right),
+    no additional array would've been needed and space complexity would've been O(1)O(1)O(1), 
+    since we don't need to store any row or column.
+
+// MARK: - Iterative, space optimized solution
+
+class Solution {
+    func minFallingPathSum(_ matrix: [[Int]]) -> Int {
+        var row = matrix[matrix.count-1]
+
+        for i in 1..<matrix.count {
+            var temp = row
+            for j in 0..<matrix[0].count {
+                let left = j == 0 ? Int.max : row[j-1]
+                let mid = row[j]
+                let right = j == matrix[0].count-1 ? Int.max : row[j+1]
+                temp[j] = min(left, mid, right) + matrix[matrix.count-1-i][j]
+            }
+            row = temp
+        }
+
+        return row.min()!
+    }
+}
+*/
