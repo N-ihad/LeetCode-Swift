@@ -8,7 +8,7 @@
 import Foundation
 
 /*
-    https://leetcode.com/problems/middle-of-the-linked-list/solutions/4839284/swift-solution-fast-and-slow-pointer-with-explanation/
+    https://leetcode.com/problems/middle-of-the-linked-list/solutions/4839284/swift-solution-beats-100-fast-and-slow-pointer-with-explanation/
 
     We create 2 pointers fast and slow. fast is jumping 2 nodes and slow is jumping 1 node on each iteration.
     If slow = i, where i is i-th node (zero based), then fast = i * 2. So if we reach
