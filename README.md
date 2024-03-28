@@ -193,6 +193,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DesignAFoodRatingSystem/LeetCode/Solution.swift)|[&mdash;]()|
 |[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WidestVerticalAreaBetweenTwoPointsContainingNoPoints/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumFallingPathSum/LeetCode/Solution.swift)|[&mdash;]()|
+|[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LengthOfLongestSubarrayWithAtMostKFrequency/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
