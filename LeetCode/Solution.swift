@@ -8,6 +8,8 @@
 import Foundation
 
 /*
+    https://leetcode.com/problems/minimum-size-subarray-sum/solutions/5893457/swift-solution-sliding-window-left-and-right-pointers
+
     Using 2 pointers left: `L` and right: `R` we can calculate current running sum in a following way: if our `sum`
     is greater than or equal to given `target` then it means we have found **possible** solution (not the only one), 
     we then proceed to remove elements from left side and see if we can reduce our count, which can be calculates as `R - L + 1`. 
