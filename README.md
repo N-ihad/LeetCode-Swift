@@ -1,5 +1,5 @@
 # LeetCode Swift
-Some solved LeetCode problems in Swift I thought I'd share if someone needs (among like tens of thousands of other resources out there lol anyway)
+Some solved LeetCode problems in Swift I thought I'd share if someone needs (among like tens of thousands of other resources out there but here it goes anyway)
 
 ## Contacts
 * LinkedIn: https://www.linkedin.com/in/nihad-samedov/
