@@ -90,6 +90,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Path Crossing](https://leetcode.com/problems/path-crossing/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/PathCrossing/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinimumChangesToMakeAlternatingBinaryString/LeetCode/Solution.swift)|[&mdash;]()|
 |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MiddleOfTheLinkedList/LeetCode/Solution.swift)|[&mdash;]()|
+|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SearchInsertPosition/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
