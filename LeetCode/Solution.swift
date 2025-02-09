@@ -20,7 +20,7 @@ import Foundation
 
 class NumberContainers {
     private var indexToNumber = [Int: Int]()
-    private var numberToIndices = [Int: Heap<Int>]()
+    private var numberToIndices = [Int: Heap<Int>]() // https://github.com/apple/swift-collections/blob/main/Sources/HeapModule/Heap.swift
 
     func change(_ index: Int, _ number: Int) {
         indexToNumber[index] = number
