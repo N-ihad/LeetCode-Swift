@@ -196,6 +196,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LengthOfLongestSubarrayWithAtMostKFrequency/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumSizeSubarraySum/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindTheNumberOfDistinctColorsAmongTheBalls/LeetCode/Solution.swift)|[&mdash;]()|
+|[Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DesignANumberContainerSystem/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
