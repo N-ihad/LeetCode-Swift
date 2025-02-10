@@ -198,6 +198,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindTheNumberOfDistinctColorsAmongTheBalls/LeetCode/Solution.swift)|[&mdash;]()|
 |[Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DesignANumberContainerSystem/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountNumberOfBadPairs/LeetCode/Solution.swift)|[&mdash;]()|
+|[Clear Digits](https://leetcode.com/problems/clear-digits/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ClearDigits/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
