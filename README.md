@@ -90,6 +90,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinimumChangesToMakeAlternatingBinaryString/LeetCode/Solution.swift)|[&mdash;]()|
 |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MiddleOfTheLinkedList/LeetCode/Solution.swift)|[&mdash;]()|
 |[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SearchInsertPosition/LeetCode/Solution.swift)|[&mdash;]()|
+|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountGoodTriplets/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
@@ -202,7 +203,6 @@ Problems are categorized into: easy, medium, hard within branches
 |[Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumOperationsToExceedThresholdValueII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ProductOfTheLastKNumbers/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindThePunishmentNumberOfAnInteger/LeetCode/Solution.swift)|[&mdash;]()|
-|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountGoodTriplets/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
