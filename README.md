@@ -91,6 +91,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MiddleOfTheLinkedList/LeetCode/Solution.swift)|[&mdash;]()|
 |[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SearchInsertPosition/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountGoodTriplets/LeetCode/Solution.swift)|[&mdash;]()|
+|[Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinimumNumberOfOperationsToMakeElementsInArrayDistinct/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
