@@ -204,6 +204,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumOperationsToExceedThresholdValueII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ProductOfTheLastKNumbers/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindThePunishmentNumberOfAnInteger/LeetCode/Solution.swift)|[&mdash;]()|
+|[Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountTheNumberOfGoodSubarrays/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
