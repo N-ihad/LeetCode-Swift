@@ -93,7 +93,6 @@ Problems are categorized into: easy, medium, hard within branches
 |[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountGoodTriplets/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinimumNumberOfOperationsToMakeElementsInArrayDistinct/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountEqualAndDivisiblePairsInAnArray/LeetCode/Solution.swift)|[&mdash;]()|
-|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountAndSay/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
@@ -208,6 +207,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindThePunishmentNumberOfAnInteger/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountTheNumberOfGoodSubarrays/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountTheNumberOfFairPairs/LeetCode/Solution.swift)|[&mdash;]()|
+|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountAndSay/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
