@@ -208,6 +208,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountTheNumberOfGoodSubarrays/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountTheNumberOfFairPairs/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count and Say](https://leetcode.com/problems/count-and-say/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountAndSay/LeetCode/Solution.swift)|[&mdash;]()|
+|[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RabbitsInForest/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
