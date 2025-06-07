@@ -212,6 +212,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Count and Say](https://leetcode.com/problems/count-and-say/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountAndSay/LeetCode/Solution.swift)|[&mdash;]()|
 |[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RabbitsInForest/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindTheLexicographicallyLargestStringFromTheBoxI/LeetCode/Solution.swift)|[&mdash;]()|
+|[Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/UsingARobotToPrintTheLexicographicallySmallestString/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
