@@ -95,6 +95,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountEqualAndDivisiblePairsInAnArray/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountSubarraysOfLengthThreeWithACondition/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindWordsContainingCharacter/LeetCode/Solution.swift)|[&mdash;]()|
+|[Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumDifferenceBetweenEvenAndOddFrequencyI/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
