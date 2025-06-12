@@ -215,7 +215,8 @@ Problems are categorized into: easy, medium, hard within branches
 |[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RabbitsInForest/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindTheLexicographicallyLargestStringFromTheBoxI/LeetCode/Solution.swift)|[&mdash;]()|
 |[Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/UsingARobotToPrintTheLexicographicallySmallestString/LeetCode/Solution.swift)|[&mdash;]()|
-|[Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LexicographicallyMinimumStringAfterRemovingStars/LeetCode/Solution.swift)|[&mdash;]()|
+|[Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LexicographicallyMinimumStringAfterRemovingStars/LeetCode/Solution.swift)|[&mdash;]()|
+|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LexicographicalNumbers/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
