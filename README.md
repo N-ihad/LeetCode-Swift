@@ -96,6 +96,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountSubarraysOfLengthThreeWithACondition/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindWordsContainingCharacter/LeetCode/Solution.swift)|[&mdash;]()|
 |[Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumDifferenceBetweenEvenAndOddFrequencyI/LeetCode/Solution.swift)|[&mdash;]()|
+|[Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumDifferenceBetweenAdjacentElementsInACircularArray/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
