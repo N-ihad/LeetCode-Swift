@@ -217,6 +217,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/UsingARobotToPrintTheLexicographicallySmallestString/LeetCode/Solution.swift)|[&mdash;]()|
 |[Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LexicographicallyMinimumStringAfterRemovingStars/LeetCode/Solution.swift)|[&mdash;]()|
 |[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LexicographicalNumbers/LeetCode/Solution.swift)|[&mdash;]()|
+|[Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimizeTheMaximumDifferenceOfPairs/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
