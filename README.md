@@ -219,6 +219,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LexicographicallyMinimumStringAfterRemovingStars/LeetCode/Solution.swift)|[&mdash;]()|
 |[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/LexicographicalNumbers/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimizeTheMaximumDifferenceOfPairs/LeetCode/Solution.swift)|[&mdash;]()|
+|[Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaxDifferenceYouCanGetFromChangingAnInteger/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
