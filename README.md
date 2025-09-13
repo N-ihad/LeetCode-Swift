@@ -99,6 +99,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumDifferenceBetweenAdjacentElementsInACircularArray/LeetCode/Solution.swift)|[&mdash;]()|
 |[Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MaximumDifferenceByRemappingADigit/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindLuckyIntegerInAnArray/LeetCode/Solution.swift)|[&mdash;]()|
+|[Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindMostFrequentVowelAndConsonant/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
