@@ -101,6 +101,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindLuckyIntegerInAnArray/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindMostFrequentVowelAndConsonant/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindMinimumOperationsToMakeAllElementsDivisibleByThree/LeetCode/Solution.swift)|[&mdash;]()|
+|[Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountPartitionsWithEvenSumDifference/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
