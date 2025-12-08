@@ -103,6 +103,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindMinimumOperationsToMakeAllElementsDivisibleByThree/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountPartitionsWithEvenSumDifference/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountOddNumbersInAnIntervalRange/LeetCode/Solution.swift)|[&mdash;]()|
+|[Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountSquareSumTriples/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
