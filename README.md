@@ -227,6 +227,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimizeTheMaximumDifferenceOfPairs/LeetCode/Solution.swift)|[&mdash;]()|
 |[Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaxDifferenceYouCanGetFromChangingAnInteger/LeetCode/Solution.swift)|[&mdash;]()|
 |[Reverse Linked List IIInteger](https://leetcode.com/problems/reverse-linked-list-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ReverseLinkedListII/LeetCode/Solution.swift)|[&mdash;]()|
+|[Count Special Triplets](https://leetcode.com/problems/count-special-triplets/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountSpecialTriplets/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
