@@ -229,6 +229,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ReverseLinkedListII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count Special Triplets](https://leetcode.com/problems/count-special-triplets/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountSpecialTriplets/LeetCode/Solution.swift)|[&mdash;]()|
 |[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/UniquePathsII/LeetCode/Solution.swift)|[&mdash;]()|
+|[Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumPenaltyForAShop/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
