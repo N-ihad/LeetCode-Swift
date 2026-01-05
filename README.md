@@ -233,6 +233,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/InterleavingString/LeetCode/Solution.swift)|[&mdash;]()|
 |[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MagicSquaresInGrid/LeetCode/Solution.swift)|[&mdash;]()|
 |[Four Divisors](https://leetcode.com/problems/four-divisors/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FourDivisors/LeetCode/Solution.swift)|[&mdash;]()|
+|[Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumMatrixSum/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
