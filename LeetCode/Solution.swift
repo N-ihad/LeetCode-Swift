@@ -10,18 +10,19 @@ import Foundation
 /*
     https://leetcode.com/problems/maximum-matrix-sum/solutions/7470437/swift-solution-with-explanation-by-nihad-l1xd
 
-    In our solution, we rely on the key observation that the main operation (multiplying 2 elements by -1) preserves the 
-    parity of the number of negative values in the matrix. If the total number of negatives is even, we can always eliminate all 
-    negative signs and make every element positive: even if two negative cells are far apart, we can gradually move their negative signs across 
-    the grid by repeatedly flipping adjacent pairs until the two negatives meet along a horizontal or vertical path, at which point they cancel out. 
-    If the total number of negatives is odd, then one element must remain negative no matter what operations we apply; in this case, the most 
-    profitable choice is to keep the smallest absolute value negative and turn all other elements positive. That is why we sum the absolute values of all 
-    elements and, when the negative count is odd, subtract twice the minimum absolute value—effectively leaving only that smallest element negative while 
-    ensuring all remaining negatives are canceled as described above.
+    In our solution, we iterate through the entire matrix once and focus on maximizing the contribution of each cell to the total sum. 
+    We add the absolute value of every element to `sum`, count how many elements are negative, and track the smallest absolute value in the matrix. 
+    The key idea is that flipping two adjacent elements preserves whether the total number of negatives is even or odd. 
+    If the number of negative values is even, we can always eliminate all negatives through a sequence of valid operations, so 
+    the maximum sum is simply the sum of all absolute values. If the number of negatives is odd, one element must remain negative, and the 
+    optimal choice is to keep the smallest absolute value negative, which is why we subtract twice that minimum value from the total.
 
-    So, we just collect the absolute sum and then if the negative number of elements is even, we can 100% cancel out all of them (as discussed above), and 
-    if it's odd, then we need to subtract 2 times the smallest (minimum) number since that number was included in sum as absolute and since we are leaving it with
-    minus then we need to subtract that number from the sum again, since it decreases our sum with that minus sign.
+    **Key ideas:**
+    - Flipping two adjacent elements does not change the parity (even/odd) of the number of negative values.
+    - If the number of negatives is even, all values can be made positive.
+    - If the number of negatives is odd, exactly one value must stay negative.
+    - Keeping the smallest absolute value negative minimizes the loss in the total sum.
+    - Summing absolute values gives the maximum possible contribution from each cell.
 
     # Complexity
     - Time complexity: $O(n^2)$
