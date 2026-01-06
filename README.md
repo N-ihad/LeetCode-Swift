@@ -236,6 +236,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumMatrixSum/LeetCode/Solution.swift)|[&mdash;]()|
 |[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumLevelSumOfABinaryTree/LeetCode/Solution.swift)|[&mdash;]()|
 |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SpiralMatrix/LeetCode/Solution.swift)|[&mdash;]()|
+|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumGap/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
