@@ -240,6 +240,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumProductOfSplittedBinaryTree/LeetCode/Solution.swift)|[&mdash;]()|
 |[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SpiralMatrixII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SpiralMatrixIII/LeetCode/Solution.swift)|[&mdash;]()|
+|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SubsetsII/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
