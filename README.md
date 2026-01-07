@@ -238,6 +238,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SpiralMatrix/LeetCode/Solution.swift)|[&mdash;]()|
 |[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumGap/LeetCode/Solution.swift)|[&mdash;]()|
 |[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumProductOfSplittedBinaryTree/LeetCode/Solution.swift)|[&mdash;]()|
+|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SpiralMatrixII/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
