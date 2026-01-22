@@ -244,6 +244,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SubsetsII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumASCIIDeleteSumForTwoStrings/LeetCode/Solution.swift)|[&mdash;]()|
 |[Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/FindTheLargestAreaOfSquareInsideTwoRectangles/LeetCode/Solution.swift)|[&mdash;]()|
+|[Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ConstructTheMinimumBitwiseArrayII/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
