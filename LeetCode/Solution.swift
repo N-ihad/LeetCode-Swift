@@ -11,7 +11,7 @@ import Foundation
     https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/solutions/7520319/swift-solution-with-explanation-by-nihad-xf1b
 
     # Intuition
-    ![Screenshot 2026-01-24 at 3.45.41 PM.png](https://assets.leetcode.com/users/images/5cf2b30a-1cc6-475a-a9fc-6c07d961ad60_1769258745.3304627.png)
+    ![Screenshot 2026-01-24 at 4.01.33 PM.png](https://assets.leetcode.com/users/images/a3dade57-56b1-4090-8297-569c6dfa8e79_1769259698.2460127.png)
 
     # Approach
     We minimize the maximum pair sum by pairing the smallest numbers with the largest numbers. 
