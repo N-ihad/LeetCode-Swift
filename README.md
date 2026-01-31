@@ -106,6 +106,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountSquareSumTriples/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinimumTimeVisitingAllPoints/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinimumPairRemovalToSortArrayI/LeetCode/Solution.swift)|[&mdash;]()|
+|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FindSmallestLetterGreaterThanTarget/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
