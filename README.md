@@ -252,6 +252,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ConstructTheMinimumBitwiseArrayII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimizeMaximumPairSumInArray/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumDeletionsToMakeStringBalanced/LeetCode/Solution.swift)|[&mdash;]()|
+|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BalanceABinarySearchTree/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
