@@ -110,6 +110,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/DivideAnArrayIntoSubarraysWithMinimumCostI/LeetCode/Solution.swift)|[&mdash;]()|
 |[Trionic Array I](https://leetcode.com/problems/trionic-array-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/TrionicArrayI/LeetCode/Solution.swift)|[&mdash;]()|
 |[Transformed Array](https://leetcode.com/problems/transformed-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/TransformedArray/LeetCode/Solution.swift)|[&mdash;]()|
+|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryWatch/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
