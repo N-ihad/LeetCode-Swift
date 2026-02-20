@@ -111,6 +111,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Trionic Array I](https://leetcode.com/problems/trionic-array-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/TrionicArrayI/LeetCode/Solution.swift)|[&mdash;]()|
 |[Transformed Array](https://leetcode.com/problems/transformed-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/TransformedArray/LeetCode/Solution.swift)|[&mdash;]()|
 |[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryWatch/LeetCode/Solution.swift)|[&mdash;]()|
+|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountBinarySubstrings/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
