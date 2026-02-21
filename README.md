@@ -112,6 +112,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Transformed Array](https://leetcode.com/problems/transformed-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/TransformedArray/LeetCode/Solution.swift)|[&mdash;]()|
 |[Binary Watch](https://leetcode.com/problems/binary-watch/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/BinaryWatch/LeetCode/Solution.swift)|[&mdash;]()|
 |[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CountBinarySubstrings/LeetCode/Solution.swift)|[&mdash;]()|
+|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/PrimeNumberOfSetBitsInBinaryRepresentation/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
