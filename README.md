@@ -257,6 +257,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumDeletionsToMakeStringBalanced/LeetCode/Solution.swift)|[&mdash;]()|
 |[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/BalanceABinarySearchTree/LeetCode/Solution.swift)|[&mdash;]()|
 |[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CheckIfAStringContainsAllBinaryCodesOfSizeK/LeetCode/Solution.swift)|[&mdash;]()|
+|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ChampagneTower/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
