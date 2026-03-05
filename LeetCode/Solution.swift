@@ -8,28 +8,22 @@
 import Foundation
 
 /*
-    https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/solutions/4449063/swift-short-solution-with-explanation/
-
-    For n = 5, we have 2 possible "right" alternating binary strings starting from zero and from one: 01010 and 10101.
-    So while iterating through an array we can check whether current character s[i] is equal to i%2. 
-    Result of i%2 can be either 0 or 1, so we increment either min1 or min2 to catch 2 possible 
-    variations of alternating binary strings (as was mentioned above). 
-    At the end we calculate the minimum between those two mininimums.
+    https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/solutions/7628141/swift-solution-with-explanation-by-nihad-k3n2
 */
 
 class Solution {
     func minOperations(_ s: String) -> Int {
         let s = Array(s)
+        var countMismatch0101 = 0
 
-        var (min1, min2) = (0, 0)
         for i in 0..<s.count {
-            if s[i] != Character(String(i%2)) {
-                min1 += 1
-            } else {
-                min2 += 1
+            let expected: Character = i % 2 == 0 ? "0" : "1"
+            if s[i] != expected {
+                countMismatch0101 += 1
             }
         }
 
-        return min(min1, min2)
+        let countMismatch1010 = s.count - countMismatch0101
+        return min(countMismatch0101, countMismatch1010)
     }
 }
