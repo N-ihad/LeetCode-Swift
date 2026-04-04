@@ -264,6 +264,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ChampagneTower/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumNumberOfFlipsToMakeTheBinaryStringAlternating/LeetCode/Solution.swift)|[&mdash;]()|
 |[Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CheckIfStringsCanBeMadeEqualWithOperationsII/LeetCode/Solution.swift)|[&mdash;]()|
+|[Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DecodeTheSlantedCiphertext/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
