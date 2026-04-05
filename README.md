@@ -117,6 +117,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SortIntegersByTheNumberOf1Bits/LeetCode/Solution.swift)|[&mdash;]()|
 |[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CheckIfBinaryStringHasAtMostOneSegmentOfOnes/LeetCode/Solution.swift)|[&mdash;]()|
 |[Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CheckIfStringsCanBeMadeEqualWithOperationsI/LeetCode/Solution.swift)|[&mdash;]()|
+|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RobotReturnToOrigin/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
