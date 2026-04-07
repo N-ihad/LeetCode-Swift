@@ -267,6 +267,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CheckIfStringsCanBeMadeEqualWithOperationsII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DecodeTheSlantedCiphertext/LeetCode/Solution.swift)|[&mdash;]()|
 |[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WalkingRobotSimulation/LeetCode/Solution.swift)|[&mdash;]()|
+|[Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WalkingRobotSimulationII/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
