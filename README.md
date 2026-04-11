@@ -270,6 +270,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WalkingRobotSimulation/LeetCode/Solution.swift)|[&mdash;]()|
 |[Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WalkingRobotSimulationII/LeetCode/Solution.swift)|[&mdash;]()|
 |[XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/XORAfterRangeMultiplicationQueriesI/LeetCode/Solution.swift)|[&mdash;]()|
+|[Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumDistanceBetweenThreeEqualElementsII/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
