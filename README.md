@@ -121,6 +121,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinimumDistanceBetweenThreeEqualElementsI/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MinimumDistanceToTheTargetElement/LeetCode/Solution.swift)|[&mdash;]()|
 |[Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/ShortestDistanceToTargetStringInACircularArray/LeetCode/Solution.swift)|[&mdash;]()|
+|[Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MirrorDistanceOfAnInteger/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
