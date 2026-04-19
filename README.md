@@ -276,6 +276,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumDistanceBetweenThreeEqualElementsII/LeetCode/Solution.swift)|[&mdash;]()|
 |[Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/ClosestEqualElementQueries/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumAbsoluteDistanceBetweenMirrorPairs/LeetCode/Solution.swift)|[&mdash;]()|
+|[Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumDistanceBetweenAPairOfValues/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
