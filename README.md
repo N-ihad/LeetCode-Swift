@@ -279,6 +279,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumAbsoluteDistanceBetweenMirrorPairs/LeetCode/Solution.swift)|[&mdash;]()|
 |[Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumDistanceBetweenAPairOfValues/LeetCode/Solution.swift)|[&mdash;]()|
 |[Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WordsWithinTwoEditsOfDictionary/LeetCode/Solution.swift)|[&mdash;]()|
+|[Sum of Distances](https://leetcode.com/problems/sum-of-distances/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SumOfDistances/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
