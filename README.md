@@ -281,6 +281,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumDistanceBetweenAPairOfValues/LeetCode/Solution.swift)|[&mdash;]()|
 |[Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WordsWithinTwoEditsOfDictionary/LeetCode/Solution.swift)|[&mdash;]()|
 |[Sum of Distances](https://leetcode.com/problems/sum-of-distances/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SumOfDistances/LeetCode/Solution.swift)|[&mdash;]()|
+|[Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DetectCyclesIn2DGrid/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
