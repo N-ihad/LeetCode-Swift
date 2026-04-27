@@ -282,6 +282,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/WordsWithinTwoEditsOfDictionary/LeetCode/Solution.swift)|[&mdash;]()|
 |[Sum of Distances](https://leetcode.com/problems/sum-of-distances/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SumOfDistances/LeetCode/Solution.swift)|[&mdash;]()|
 |[Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DetectCyclesIn2DGrid/LeetCode/Solution.swift)|[&mdash;]()|
+|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CheckIfThereIsAValidPathInAGrid/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
