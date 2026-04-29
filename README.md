@@ -283,6 +283,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Sum of Distances](https://leetcode.com/problems/sum-of-distances/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/SumOfDistances/LeetCode/Solution.swift)|[&mdash;]()|
 |[Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/DetectCyclesIn2DGrid/LeetCode/Solution.swift)|[&mdash;]()|
 |[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CheckIfThereIsAValidPathInAGrid/LeetCode/Solution.swift)|[&mdash;]()|
+|[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumOperationsToMakeAUni-ValueGrid/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
