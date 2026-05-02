@@ -285,6 +285,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CheckIfThereIsAValidPathInAGrid/LeetCode/Solution.swift)|[&mdash;]()|
 |[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MinimumOperationsToMakeAUni-ValueGrid/LeetCode/Solution.swift)|[&mdash;]()|
 |[Rotate Function](https://leetcode.com/problems/rotate-function/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RotateFunction/LeetCode/Solution.swift)|[&mdash;]()|
+|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RotatedDigits/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
