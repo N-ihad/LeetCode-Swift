@@ -124,6 +124,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/MirrorDistanceOfAnInteger/LeetCode/Solution.swift)|[&mdash;]()|
 |[Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/TwoFurthestHousesWithDifferentColors/LeetCode/Solution.swift)|[&mdash;]()|
 |[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FurthestPointFromOrigin/LeetCode/Solution.swift)|[&mdash;]()|
+|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RotateString/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
