@@ -125,6 +125,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/TwoFurthestHousesWithDifferentColors/LeetCode/Solution.swift)|[&mdash;]()|
 |[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FurthestPointFromOrigin/LeetCode/Solution.swift)|[&mdash;]()|
 |[Rotate String](https://leetcode.com/problems/rotate-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RotateString/LeetCode/Solution.swift)|[&mdash;]()|
+|[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SeparateTheDigitsInAnArray/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
