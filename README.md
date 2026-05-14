@@ -126,6 +126,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/FurthestPointFromOrigin/LeetCode/Solution.swift)|[&mdash;]()|
 |[Rotate String](https://leetcode.com/problems/rotate-string/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/RotateString/LeetCode/Solution.swift)|[&mdash;]()|
 |[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/SeparateTheDigitsInAnArray/LeetCode/Solution.swift)|[&mdash;]()|
+|[Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/easy/CheckIfArrayIsGood/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Medium
 |Source|Solution|Tests|
