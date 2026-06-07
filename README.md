@@ -291,6 +291,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Rotate Function](https://leetcode.com/problems/rotate-function/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RotateFunction/LeetCode/Solution.swift)|[&mdash;]()|
 |[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RotatedDigits/LeetCode/Solution.swift)|[&mdash;]()|
 |[Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumNumberOfJumpsToReachTheLastIndex/LeetCode/Solution.swift)|[&mdash;]()|
+|[Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CreateBinaryTreeFromDescriptions/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
