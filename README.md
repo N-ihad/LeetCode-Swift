@@ -293,6 +293,7 @@ Problems are categorized into: easy, medium, hard within branches
 |[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/RotatedDigits/LeetCode/Solution.swift)|[&mdash;]()|
 |[Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/MaximumNumberOfJumpsToReachTheLastIndex/LeetCode/Solution.swift)|[&mdash;]()|
 |[Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CreateBinaryTreeFromDescriptions/LeetCode/Solution.swift)|[&mdash;]()|
+|[Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/)|[Swift](https://github.com/N-ihad/LeetCode-Swift/blob/medium/CountSubarraysWithMajorityElementI/LeetCode/Solution.swift)|[&mdash;]()|
 
 ### Hard
 |Source|Solution|Tests|
